@@ -7,8 +7,8 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-1" value="输入图像特征图H×W×C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="30" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="划分区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="90" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
