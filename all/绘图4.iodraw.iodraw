@@ -25,8 +25,8 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-10" value="Token收集: 目标区域+ k个邻近区域Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="Token收集: 目标区域+ k个邻近区域Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="细粒度Token注意力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
