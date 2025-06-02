@@ -101,7 +101,10 @@
           <mxGeometry x="450" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-59" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="310" width="52.5" height="65" as="geometry" />
+          <mxGeometry x="463.75" y="265" width="52.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-60" value="CBS" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
