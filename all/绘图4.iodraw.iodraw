@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iWMctNq9JwmVIzHZf3o_-1" value="输入图像特征图H×W×C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="30" width="170" height="40" as="geometry" />
+          <mxGeometry x="270" y="40" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="划分区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="90" width="120" height="50" as="geometry" />
+          <mxGeometry x="310" y="110" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="生成区域特征图：K×K个区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="210" width="215" height="50" as="geometry" />
