@@ -79,11 +79,17 @@
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-24" value="CRC(K=3)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="412.5" y="160" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5hEc1r5d9yAxg1AgwbqQ-26" target="5hEc1r5d9yAxg1AgwbqQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-26" value="2×CSP(X&#39;&lt;sub&gt;3&lt;/sub&gt;)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="250" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-28" value="CBS" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417.5" y="310" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-30" value="CRC(K=2)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="417.5" y="385" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
