@@ -32,10 +32,10 @@
           <mxGeometry x="110" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="是否处理完所有区域？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="780" width="80" height="80" as="geometry" />
+          <mxGeometry x="289" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="输出更新后的特征图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
