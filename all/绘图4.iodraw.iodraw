@@ -11,7 +11,7 @@
           <mxGeometry x="275" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="生成区域特征图：K×" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="170" width="165" height="50" as="geometry" />
+          <mxGeometry x="275" y="170" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
