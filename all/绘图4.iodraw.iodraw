@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="是否处理完所有区域？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="&lt;font face=&quot;Georgia&quot;&gt;是否处理完所有区域？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="640" width="151" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="输出更新后的特征图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
