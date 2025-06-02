@@ -65,7 +65,7 @@
           <mxGeometry x="610" y="310" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-27" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Comic Sans MS&quot;&gt;Input Feature&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="100" height="100" as="geometry" />
+          <mxGeometry x="680" y="295" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
