@@ -98,13 +98,16 @@
           <mxGeometry x="70" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="414" y="460" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Standard Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="460" width="160" height="30" as="geometry" />
+          <mxGeometry x="160" y="460" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-53" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Atrous Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="460" width="180" height="30" as="geometry" />
+          <mxGeometry x="450" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDCUY7JIws27jTc0x-p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JsDCUY7JIws27jTc0x-p-53" target="JsDCUY7JIws27jTc0x-p-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
