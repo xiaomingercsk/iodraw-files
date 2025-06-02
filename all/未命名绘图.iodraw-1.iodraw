@@ -70,7 +70,7 @@
             <mxPoint x="340" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-10" value="CBS(X&#39;&lt;sub&gt;4&lt;/sub&gt;)" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-10" value="CBS(X&#39;&lt;sub&gt;4&lt;/sub&gt;)" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="430" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-11" value="CRC(K=2)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
