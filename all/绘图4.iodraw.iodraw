@@ -28,6 +28,12 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="细粒度Token注意力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-14" value="更新目标区域原始Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
