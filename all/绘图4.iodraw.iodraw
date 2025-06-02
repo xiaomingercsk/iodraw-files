@@ -29,7 +29,7 @@
           <mxGeometry x="120" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-14" value="更新目标区域原始Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="122.5" y="585" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="是否处理完所有区域？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="760" width="80" height="80" as="geometry" />
