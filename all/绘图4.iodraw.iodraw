@@ -16,7 +16,12 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-6" value="双向路由器阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-7" value="动态选择Top-k邻近区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-8" value="区域级路由注意力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
