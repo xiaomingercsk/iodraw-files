@@ -19,7 +19,7 @@
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-4" value="Upsample" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-5" value="CRC(K=2)" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-5" value="CRC)" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="180" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
