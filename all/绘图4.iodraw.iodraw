@@ -13,8 +13,14 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="生成区域特征图：K×K个区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221.5" y="160" width="215" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221.5" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-6" value="双向路由器阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
