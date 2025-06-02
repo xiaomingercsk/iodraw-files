@@ -73,7 +73,7 @@
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-22" value="CBS" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417.5" y="100" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-24" value="CRC(K=2)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-24" value="CRC(K=3)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417.5" y="200" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
