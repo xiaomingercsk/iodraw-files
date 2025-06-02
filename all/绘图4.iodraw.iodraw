@@ -14,7 +14,7 @@
           <mxGeometry x="250" y="140" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-6" value="双向路由器阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="299" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-7" value="动态选择Top-k邻近区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="410" width="160" height="60" as="geometry" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="输出更新后的特征图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
