@@ -86,7 +86,7 @@
           <mxGeometry x="292.5" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-46" value="Dysample" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="305" width="80" height="30" as="geometry" />
+          <mxGeometry x="287.5" y="292.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-47" value="Dysample" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="150" width="75" height="30" as="geometry" />
@@ -141,9 +141,6 @@
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-66" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="525" width="55" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.564;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVhd2vxQQ9DfkdAyRfJk-48" target="gVhd2vxQQ9DfkdAyRfJk-46">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
