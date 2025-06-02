@@ -25,6 +25,9 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-10" value="Token收集: 目标区域+ k个邻近区域Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-12" value="动态选择Top-k邻近区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
