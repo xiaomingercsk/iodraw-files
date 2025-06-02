@@ -191,7 +191,7 @@
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-63" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="405.25" y="445" width="46" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-64" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-64" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="20" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.586;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVhd2vxQQ9DfkdAyRfJk-48" target="gVhd2vxQQ9DfkdAyRfJk-46">
@@ -204,10 +204,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-102" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-102" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="241.25" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-103" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-103" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="452.5" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
