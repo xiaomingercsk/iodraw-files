@@ -52,10 +52,16 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="细粒度Token注意力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="480" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-14" target="iWMctNq9JwmVIzHZf3o_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-14" value="更新目标区域原始Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="545" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="是否处理完所有区域？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
