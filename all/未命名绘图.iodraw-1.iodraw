@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="5hEc1r5d9yAxg1AgwbqQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Input Feature X&lt;sub&gt;2&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="40" width="80" height="40" as="geometry" />
         </mxCell>
@@ -17,7 +20,7 @@
           <mxGeometry x="302.5" y="260" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-4" value="Upsample" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-5" value="CBS" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="170" width="50" height="50" as="geometry" />
