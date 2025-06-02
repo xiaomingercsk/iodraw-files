@@ -182,6 +182,9 @@
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-62" value="Fast-C2f" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="384.06" y="405" width="55.94" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVhd2vxQQ9DfkdAyRfJk-63" target="gVhd2vxQQ9DfkdAyRfJk-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-63" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="405.25" y="445" width="46" height="60" as="geometry" />
         </mxCell>
@@ -205,7 +208,7 @@
           <mxGeometry x="470" y="241.25" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-103" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="452.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="470" y="452.5" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
