@@ -62,7 +62,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="665" />
+              <mxPoint x="370" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="是否处理完所有区域？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="640" width="151" height="100" as="geometry" />
