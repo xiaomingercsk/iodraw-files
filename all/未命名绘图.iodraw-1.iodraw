@@ -14,7 +14,7 @@
           <mxGeometry x="130" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-1" value="Input Feature X&lt;sub&gt;2&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="360" width="80" height="30" as="geometry" />
+          <mxGeometry x="130" y="440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5hEc1r5d9yAxg1AgwbqQ-3" target="5hEc1r5d9yAxg1AgwbqQ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-8" value="Upsample" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hEc1r5d9yAxg1AgwbqQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5hEc1r5d9yAxg1AgwbqQ-10" target="5hEc1r5d9yAxg1AgwbqQ-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-10" value="CBS(X&#39;&lt;sub&gt;4&lt;/sub&gt;)" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="430" width="50" height="50" as="geometry" />
