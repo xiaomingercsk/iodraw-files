@@ -68,7 +68,10 @@
           <mxGeometry x="570" y="248.47" width="41" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-60" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;原始缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="749.92" y="400.08" width="24.8" height="144.64" as="geometry" />
+          <mxGeometry x="840" y="93.31" width="24.8" height="144.64" as="geometry" />
+        </mxCell>
+        <mxCell id="UOeKOD3BSmhCDODwXqJn-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="475.5" width="41" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
