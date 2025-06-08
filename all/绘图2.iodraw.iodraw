@@ -156,7 +156,7 @@
           <mxGeometry x="540" y="380" width="58.25" height="26.13" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-62" value="Fast-C2f" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="677.5" y="382" width="55.94" height="25" as="geometry" />
+          <mxGeometry x="617.97" y="380" width="55.94" height="25" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-64" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="782" y="85" width="45" height="45" as="geometry" />
@@ -180,7 +180,7 @@
           <mxGeometry x="391.66999999999996" y="407" width="43.67" height="59.38" as="geometry" />
         </mxCell>
         <mxCell id="7zAGtRI7xM8GdQfL1K_O-56" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=90;shadow=0;fillColor=#b1ddf0;strokeColor=#10739e;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="758.2149999999999" y="439.995" width="48.57" height="72.38" as="geometry" />
+          <mxGeometry x="710.28" y="400.29" width="45" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
