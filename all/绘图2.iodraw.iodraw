@@ -76,16 +76,11 @@
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-59" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="57.5" width="50" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="7zAGtRI7xM8GdQfL1K_O-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVhd2vxQQ9DfkdAyRfJk-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-60" value="CBS" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="335" width="53.38" height="25" as="geometry" />
+          <mxGeometry x="406.62" y="77.5" width="53.38" height="25" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-61" value="Concat" style="whiteSpace=wrap;html=1;rounded=0;glass=1;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="390" width="58.25" height="30" as="geometry" />
+          <mxGeometry x="481.75" y="72.5" width="58.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-62" value="Fast-C2f" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="663.88" y="450" width="55.94" height="25" as="geometry" />
