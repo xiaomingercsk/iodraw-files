@@ -45,7 +45,7 @@
           <mxGeometry x="367.57" y="490" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Standard Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="533.75" width="41.28" height="165" as="geometry" />
+          <mxGeometry x="280" y="533.75" width="41.28" height="165" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-53" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Atrous Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="533.75" width="59.66" height="165" as="geometry" />
@@ -120,11 +120,11 @@
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-18" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;3×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="180" width="43.28" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="VU2_phv_vQF9ucMQvQTQ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="VU2_phv_vQF9ucMQvQTQ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="585" width="43.28" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="VU2_phv_vQF9ucMQvQTQ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="110" y="585" width="43.28" height="62.5" as="geometry" />
+        <mxCell id="VU2_phv_vQF9ucMQvQTQ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="585" width="43.28" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
