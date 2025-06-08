@@ -52,7 +52,7 @@
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;2×CSP&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="215" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PXIrse-kOcQsM0TClG9e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5hEc1r5d9yAxg1AgwbqQ-8" target="5hEc1r5d9yAxg1AgwbqQ-11">
+        <mxCell id="PXIrse-kOcQsM0TClG9e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5hEc1r5d9yAxg1AgwbqQ-8" target="5hEc1r5d9yAxg1AgwbqQ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5hEc1r5d9yAxg1AgwbqQ-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Upsample&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
