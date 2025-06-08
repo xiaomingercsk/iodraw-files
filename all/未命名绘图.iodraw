@@ -56,7 +56,7 @@
           <mxGeometry x="473.7" y="156.65" width="27.2" height="134.64" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-48" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;高分辨率缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="381.8700000000001" y="930" width="80" height="64.64" as="geometry" />
+          <mxGeometry x="465.31" y="926.57" width="3.13" height="154.64" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-49" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;原始缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="93.31000000000002" width="24.8" height="144.64" as="geometry" />
