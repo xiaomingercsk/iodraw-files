@@ -76,7 +76,7 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="&lt;font face=&quot;Georgia&quot;&gt;输出更新后的特征图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="246" y="780" width="216" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bR4O3_42dC21eaxGK4E-1" value="&lt;font face=&quot;Georgia&quot;&gt;适宜特征区域选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_bR4O3_42dC21eaxGK4E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="291.75" y="100" width="100.5" height="30" as="geometry" />
         </mxCell>
       </root>
