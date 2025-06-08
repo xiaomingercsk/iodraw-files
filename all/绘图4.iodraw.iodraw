@@ -8,10 +8,10 @@
           <mxGeometry x="270" y="40" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="&lt;font face=&quot;Georgia&quot;&gt;适宜特征区域选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="291.75" y="160" width="100.5" height="30" as="geometry" />
+          <mxGeometry x="291.75" y="110" width="100.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="&lt;font face=&quot;Georgia&quot;&gt;生成区域特征图：K×K个区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="220" width="195" height="40" as="geometry" />
+          <mxGeometry x="244.5" y="170" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-6" target="iWMctNq9JwmVIzHZf3o_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="&lt;font face=&quot;Georgia&quot;&gt;输出更新后的特征图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="246" y="780" width="216" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_bR4O3_42dC21eaxGK4E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="291.75" y="100" width="100.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
