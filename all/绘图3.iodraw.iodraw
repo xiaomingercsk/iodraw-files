@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VU2_phv_vQF9ucMQvQTQ-1" value="" style="group;rotation=90;strokeColor=default;horizontal=1;container=0;verticalAlign=top;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="205" y="135" width="620" height="410" as="geometry" />
-        </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" parent="1" source="JsDCUY7JIws27jTc0x-p-1" target="JsDCUY7JIws27jTc0x-p-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -98,12 +95,12 @@
           <mxGeometry x="375.5405405405405" y="690" width="67.02702702702703" height="67.02702702702703" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="258.2432432432432" y="65" width="67.02702702702703" height="30" as="geometry" />
+          <mxGeometry x="140.00324324324322" y="67.03" width="67.02702702702703" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="258.2432432432432" y="355" width="67.02702702702703" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JsDCUY7JIws27jTc0x-p-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Standard Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
+        <mxCell id="JsDCUY7JIws27jTc0x-p-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Standard Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="224.72972972972974" y="195" width="134.05405405405406" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-53" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Atrous Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
