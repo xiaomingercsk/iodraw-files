@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsDCUY7JIws27jTc0x-p-1" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 17px;&quot;&gt;Input Feature&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=90;horizontal=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="JsDCUY7JIws27jTc0x-p-1" value="&lt;font color=&quot;#000000&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 17px;&quot;&gt;Input Feature&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=90;horizontal=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="365.54" y="10" width="77.03" height="77.03" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="JsDCUY7JIws27jTc0x-p-5" target="JsDCUY7JIws27jTc0x-p-26" edge="1">
