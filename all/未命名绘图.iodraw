@@ -32,7 +32,7 @@
           <mxGeometry x="183.56" y="187.23" width="33.13" height="73.49" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="342.87" y="250" width="41" height="70" as="geometry" />
+          <mxGeometry x="357.87" y="248.47" width="41" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="319.99569102065834" y="566.4246034620592" width="37.87" height="73.49" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="618.8" y="790" width="161" height="118" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-47" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;多模态缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="458.33" y="156.66" width="27.2" height="134.64" as="geometry" />
+          <mxGeometry x="473.7" y="156.65" width="27.2" height="134.64" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-48" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;高分辨率缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="381.8700000000001" y="930" width="80" height="64.64" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="163.37795114039636" y="329.99709651992407" width="73.49" height="33.13" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-59" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="577.8" y="250" width="41" height="70" as="geometry" />
+          <mxGeometry x="570" y="248.47" width="41" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
