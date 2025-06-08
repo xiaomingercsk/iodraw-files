@@ -22,11 +22,16 @@
         <mxCell id="UOeKOD3BSmhCDODwXqJn-11" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;雪天场景下的缺陷绝缘子图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="228.83" y="410" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UOeKOD3BSmhCDODwXqJn-12" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;晴天场景下的缺陷绝缘子图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="UOeKOD3BSmhCDODwXqJn-12" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;雾天场景下的缺陷绝缘子图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="424.5" y="400" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.624;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UOeKOD3BSmhCDODwXqJn-1" target="UOeKOD3BSmhCDODwXqJn-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOeKOD3BSmhCDODwXqJn-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOeKOD3BSmhCDODwXqJn-14">
+          <mxGeometry x="-0.015" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
