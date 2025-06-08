@@ -200,6 +200,9 @@
         <mxCell id="7zAGtRI7xM8GdQfL1K_O-54" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=90;shadow=0;fillColor=#b1ddf0;strokeColor=#10739e;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="392.06" y="393" width="38.34" height="59.38" as="geometry" />
         </mxCell>
+        <mxCell id="7zAGtRI7xM8GdQfL1K_O-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7zAGtRI7xM8GdQfL1K_O-56" target="7zAGtRI7xM8GdQfL1K_O-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7zAGtRI7xM8GdQfL1K_O-56" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=90;shadow=0;fillColor=#b1ddf0;strokeColor=#10739e;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="396.69000000000005" width="40" height="53.81" as="geometry" />
         </mxCell>
@@ -213,7 +216,7 @@
           <mxGeometry x="389.79" y="470" width="42.88" height="42.88" as="geometry" />
         </mxCell>
         <mxCell id="7zAGtRI7xM8GdQfL1K_O-78" value="Detect" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="693.56" y="470" width="42.88" height="42.88" as="geometry" />
+          <mxGeometry x="700" y="470" width="42.88" height="42.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
