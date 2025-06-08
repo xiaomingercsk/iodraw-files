@@ -11,15 +11,10 @@
           <mxGeometry x="200" y="533.75" width="41.28" height="165" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-53" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Atrous Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="533.75" width="59.66" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="y6itbJbyRsMoePzUw0hM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VU2_phv_vQF9ucMQvQTQ-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="639.9999999999998" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="710" y="533.75" width="59.66" height="165" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="730" width="43.28" height="62.5" as="geometry" />
+          <mxGeometry x="460" y="565" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="585" width="43.28" height="62.5" as="geometry" />
