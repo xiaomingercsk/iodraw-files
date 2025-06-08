@@ -87,7 +87,7 @@
           <mxGeometry x="640" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-50" value="Dysample" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="760" y="340" width="55" height="30" as="geometry" />
+          <mxGeometry x="760" y="320" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-51" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;shadow=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="57.5" width="44.75" height="65" as="geometry" />
