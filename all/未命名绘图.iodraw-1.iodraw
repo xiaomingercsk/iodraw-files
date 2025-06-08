@@ -13,8 +13,8 @@
         <mxCell id="a-j7l1azqjVm9wvlU14C-3" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;多天气场景下的缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-4" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;多天气场景下的缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="110" width="170" height="30" as="geometry" />
+        <mxCell id="a-j7l1azqjVm9wvlU14C-4" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;随机抽取的不同天气场景下的缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
