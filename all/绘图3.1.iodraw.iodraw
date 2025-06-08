@@ -100,7 +100,7 @@
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="VU2_phv_vQF9ucMQvQTQ-16" target="VU2_phv_vQF9ucMQvQTQ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VU2_phv_vQF9ucMQvQTQ-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;1×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="VU2_phv_vQF9ucMQvQTQ-16" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;1×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="332.26" y="250" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="VU2_phv_vQF9ucMQvQTQ-17" target="JsDCUY7JIws27jTc0x-p-26" edge="1">
@@ -117,7 +117,7 @@
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="VU2_phv_vQF9ucMQvQTQ-18" target="JsDCUY7JIws27jTc0x-p-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VU2_phv_vQF9ucMQvQTQ-18" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;3×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="VU2_phv_vQF9ucMQvQTQ-18" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;3×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="530" y="180" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rotation=90;horizontal=0;fontColor=#ffffff;" parent="1" vertex="1">
