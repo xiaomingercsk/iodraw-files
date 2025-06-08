@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="&lt;font face=&quot;Georgia&quot;&gt;执行局部注意力计算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="174.25" y="490" width="110" height="50" as="geometry" />
+          <mxGeometry x="174.25" y="490" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-14" value="&lt;font face=&quot;Georgia&quot;&gt;稀疏特征融合&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="120" y="545" width="105" height="40" as="geometry" />
+          <mxGeometry x="177.5" y="555" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
