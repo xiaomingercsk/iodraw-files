@@ -61,8 +61,8 @@
         <mxCell id="UOeKOD3BSmhCDODwXqJn-49" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;原始缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="590" y="630" width="44.8" height="64.64" as="geometry" />
         </mxCell>
-        <mxCell id="UOeKOD3BSmhCDODwXqJn-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=35.84;direction=south;notch=0;rotation=-115;" vertex="1" parent="1">
-          <mxGeometry x="443.7379511403964" y="183.79709651992408" width="33.13" height="73.49" as="geometry" />
+        <mxCell id="UOeKOD3BSmhCDODwXqJn-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=35.84;direction=west;notch=0;rotation=-115;" vertex="1" parent="1">
+          <mxGeometry x="423.55795114039637" y="203.9770965199241" width="73.49" height="33.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
