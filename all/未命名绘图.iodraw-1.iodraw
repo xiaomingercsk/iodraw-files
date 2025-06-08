@@ -10,8 +10,8 @@
         <mxCell id="a-j7l1azqjVm9wvlU14C-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-3" value="多天气场景下的缺陷绝缘子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="170" height="30" as="geometry" />
+        <mxCell id="a-j7l1azqjVm9wvlU14C-3" value="多天气场景下的缺陷绝缘子图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
