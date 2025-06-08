@@ -22,6 +22,9 @@
         <mxCell id="UOeKOD3BSmhCDODwXqJn-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rotation=55;" vertex="1" parent="1">
           <mxGeometry x="449.99913130423846" y="249.99520789049535" width="90" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="UOeKOD3BSmhCDODwXqJn-11" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;晴天场景下的缺陷绝缘子图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="190" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
