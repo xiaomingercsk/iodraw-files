@@ -8,7 +8,7 @@
           <mxGeometry x="365.54" y="10" width="77.03" height="77.03" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Standard Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="334.26" y="533.75" width="41.28" height="165" as="geometry" />
+          <mxGeometry x="250" y="400" width="41.28" height="165" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-53" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Atrous Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="533.75" width="59.66" height="165" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="170" y="647.5" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="450" width="43.28" height="62.5" as="geometry" />
+          <mxGeometry x="100" y="451.25" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="JsDCUY7JIws27jTc0x-p-1" target="JsDCUY7JIws27jTc0x-p-5" edge="1">
           <mxGeometry relative="1" as="geometry">
