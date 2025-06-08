@@ -1,72 +1,72 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lO_IlRjn8iA1pq6clw7g">
-    <mxGraphModel dx="1032" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-1" target="iWMctNq9JwmVIzHZf3o_-2">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-1" target="iWMctNq9JwmVIzHZf3o_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-1" value="&lt;font face=&quot;Georgia&quot;&gt;输入图像特征图H×W×C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-1" value="&lt;font face=&quot;Georgia&quot;&gt;原始特征图H×W×C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="40" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-2" target="iWMctNq9JwmVIzHZf3o_-4">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-2" target="iWMctNq9JwmVIzHZf3o_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="&lt;font face=&quot;Georgia&quot;&gt;划分区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="&lt;font face=&quot;Georgia&quot;&gt;划分区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="90" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-4" target="iWMctNq9JwmVIzHZf3o_-6">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-4" target="iWMctNq9JwmVIzHZf3o_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="&lt;font face=&quot;Georgia&quot;&gt;生成区域特征图：K×K个区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="&lt;font face=&quot;Georgia&quot;&gt;生成区域特征图：K×K个区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="244.5" y="140" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-6" target="iWMctNq9JwmVIzHZf3o_-8">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-6" target="iWMctNq9JwmVIzHZf3o_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-6" value="&lt;font face=&quot;Georgia&quot;&gt;双向路由器阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-6" value="&lt;font face=&quot;Georgia&quot;&gt;双向路由器阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="287" y="200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-7" target="iWMctNq9JwmVIzHZf3o_-10">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-7" target="iWMctNq9JwmVIzHZf3o_-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-7" value="&lt;font face=&quot;Georgia&quot;&gt;动态选择Top-k邻近区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-7" value="&lt;font face=&quot;Georgia&quot;&gt;动态选择Top-k邻近区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="350" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-8" target="iWMctNq9JwmVIzHZf3o_-7">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-8" target="iWMctNq9JwmVIzHZf3o_-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-8" value="&lt;font face=&quot;Georgia&quot;&gt;区域级路由注意力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-8" value="&lt;font face=&quot;Georgia&quot;&gt;区域级路由注意力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="110" y="280" width="111.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-10" target="iWMctNq9JwmVIzHZf3o_-13">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-10" target="iWMctNq9JwmVIzHZf3o_-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-10" value="&lt;font face=&quot;Georgia&quot;&gt;Token收集: 目标区域+ k个邻近区域Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-10" value="&lt;font face=&quot;Georgia&quot;&gt;Token收集: 目标区域+ k个邻近区域Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="90" y="410" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-13" target="iWMctNq9JwmVIzHZf3o_-14">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-13" target="iWMctNq9JwmVIzHZf3o_-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="&lt;font face=&quot;Georgia&quot;&gt;细粒度Token注意力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-13" value="&lt;font face=&quot;Georgia&quot;&gt;细粒度Token注意力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="117.5" y="480" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-14" target="iWMctNq9JwmVIzHZf3o_-15">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-14" target="iWMctNq9JwmVIzHZf3o_-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-14" value="&lt;font face=&quot;Georgia&quot;&gt;更新目标区域原始Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-14" value="&lt;font face=&quot;Georgia&quot;&gt;更新目标区域原始Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="120" y="545" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-16">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-35" value="&lt;font face=&quot;Georgia&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iWMctNq9JwmVIzHZf3o_-29">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-35" value="&lt;font face=&quot;Georgia&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iWMctNq9JwmVIzHZf3o_-29" vertex="1" connectable="0">
           <mxGeometry x="-0.0759" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-6">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="iWMctNq9JwmVIzHZf3o_-15" target="iWMctNq9JwmVIzHZf3o_-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="665" />
@@ -74,15 +74,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-33" value="&lt;font face=&quot;Georgia&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iWMctNq9JwmVIzHZf3o_-31">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-33" value="&lt;font face=&quot;Georgia&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iWMctNq9JwmVIzHZf3o_-31" vertex="1" connectable="0">
           <mxGeometry x="0.0838" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="&lt;font face=&quot;Georgia&quot;&gt;是否处理完所有区域？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-15" value="&lt;font face=&quot;Georgia&quot;&gt;是否处理完所有区域？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="278.5" y="640" width="151" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="&lt;font face=&quot;Georgia&quot;&gt;输出更新后的特征图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-16" value="&lt;font face=&quot;Georgia&quot;&gt;输出更新后的特征图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="246" y="780" width="216" height="30" as="geometry" />
         </mxCell>
       </root>
