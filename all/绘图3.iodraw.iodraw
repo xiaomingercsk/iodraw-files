@@ -4,19 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JsDCUY7JIws27jTc0x-p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" parent="1" source="JsDCUY7JIws27jTc0x-p-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444.135" y="159.9849999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JsDCUY7JIws27jTc0x-p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" parent="1" source="JsDCUY7JIws27jTc0x-p-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342.0949999999998" y="159.3900000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JsDCUY7JIws27jTc0x-p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" parent="1" source="JsDCUY7JIws27jTc0x-p-1" target="JsDCUY7JIws27jTc0x-p-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-1" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Comic Sans MS&quot;&gt;Input Feature&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="371.35135135135135" y="30" width="67.02702702702703" height="67.02702702702703" as="geometry" />
         </mxCell>
