@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lO_IlRjn8iA1pq6clw7g">
-    <mxGraphModel dx="898" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-49" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;原始缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="590" y="630" width="44.8" height="64.64" as="geometry" />
+        </mxCell>
+        <mxCell id="UOeKOD3BSmhCDODwXqJn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=33.489999999999995;exitDy=11.360999999999999;exitPerimeter=0;entryX=0.652;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UOeKOD3BSmhCDODwXqJn-37" target="UOeKOD3BSmhCDODwXqJn-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
