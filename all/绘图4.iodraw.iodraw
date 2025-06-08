@@ -22,7 +22,7 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;生成区域特征图：K×K个区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="244.5" y="150" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bR4O3_42dC21eaxGK4E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-6" target="iWMctNq9JwmVIzHZf3o_-8">
+        <mxCell id="_bR4O3_42dC21eaxGK4E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-6" target="iWMctNq9JwmVIzHZf3o_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_bR4O3_42dC21eaxGK4E-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWMctNq9JwmVIzHZf3o_-6" target="iWMctNq9JwmVIzHZf3o_-15">
