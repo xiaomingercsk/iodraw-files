@@ -149,8 +149,8 @@
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-54" value="Fast-C2f" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="349.87" y="377" width="56.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-59" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="449" y="407" width="50" height="57.5" as="geometry" />
+        <mxCell id="gVhd2vxQQ9DfkdAyRfJk-59" value="EMA" style="triangle;whiteSpace=wrap;html=1;rotation=0;fillColor=#b1ddf0;strokeColor=#10739e;horizontal=0;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445.25" y="410.75" width="57.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gVhd2vxQQ9DfkdAyRfJk-60" value="CBS" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="406.62" y="77.5" width="53.38" height="25" as="geometry" />
