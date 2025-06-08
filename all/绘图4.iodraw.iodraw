@@ -7,7 +7,7 @@
         <mxCell id="iWMctNq9JwmVIzHZf3o_-1" value="&lt;font face=&quot;Georgia&quot;&gt;原始特征图H×W×C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="40" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="&lt;font face=&quot;Georgia&quot;&gt;适宜特征区域选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="iWMctNq9JwmVIzHZf3o_-2" value="&lt;font face=&quot;Georgia&quot;&gt;特征区域选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="291.75" y="110" width="100.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-4" value="&lt;font face=&quot;Georgia&quot;&gt;生成区域特征图：K×K个区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
