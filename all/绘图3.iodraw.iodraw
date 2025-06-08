@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;1×1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="421.62" y="150" width="46.83" height="65" as="geometry" />
+          <mxGeometry x="421.62" y="150" width="38.45" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" parent="1" source="JsDCUY7JIws27jTc0x-p-4" target="JsDCUY7JIws27jTc0x-p-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;1×1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="248.13" y="168.13" width="43.28" height="62.5" as="geometry" />
+          <mxGeometry x="230" y="152.5" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" parent="1" source="JsDCUY7JIws27jTc0x-p-6" target="JsDCUY7JIws27jTc0x-p-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
