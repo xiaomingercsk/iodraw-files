@@ -20,7 +20,7 @@
           <mxGeometry x="231.88" y="330" width="105.69" height="89.56" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-11" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;雪天场景下的缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=0;rotation=90;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="479.56" width="17.5" height="149.64" as="geometry" />
+          <mxGeometry x="281.12" y="80" width="17.5" height="149.64" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-12" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;雾天场景下的缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=1;direction=south;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="211.62" y="310" width="146.2" height="16.95" as="geometry" />
