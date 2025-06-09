@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="15" value="FDM-YOLO-A模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" parent="3" vertex="1">
-          <mxGeometry x="116.5" y="192" width="107" height="27" as="geometry" />
+          <mxGeometry x="106.5" y="192" width="107" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-168" value="" style="group" parent="3" vertex="1" connectable="0">
           <mxGeometry x="90" y="39" width="160" height="153" as="geometry" />
