@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1006" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,9 +280,6 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-111" value="" style="group;strokeColor=none;" parent="4" vertex="1" connectable="0">
           <mxGeometry y="29" width="501" height="542" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-32" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;自建数据集A&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
-          <mxGeometry x="67.4423076923077" width="115.61538461538461" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-158" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-44" target="H4w8OkcAUNcY7MMWdHHq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -355,9 +352,6 @@
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-79" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;边缘部署&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="332.3942307692308" y="512" width="115.61538461538461" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-32" target="H4w8OkcAUNcY7MMWdHHq-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=none;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-44" target="H4w8OkcAUNcY7MMWdHHq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -438,6 +432,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="4" source="H4w8OkcAUNcY7MMWdHHq-43" target="H4w8OkcAUNcY7MMWdHHq-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-32" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;自建数据集A&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="4" vertex="1">
+          <mxGeometry x="67.4423076923077" y="40" width="115.61538461538461" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="4" source="H4w8OkcAUNcY7MMWdHHq-32" target="H4w8OkcAUNcY7MMWdHHq-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
