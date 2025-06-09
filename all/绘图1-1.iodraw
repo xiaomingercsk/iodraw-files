@@ -312,7 +312,7 @@
             <mxPoint x="125.08300000000015" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-67" value="&lt;b&gt;更新&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;FDM-YOLO-A模型&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-67" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;更新&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;FDM-YOLO-A模型&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="52.99038461538462" y="392" width="144.51923076923077" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-69" value="&lt;b&gt;模型压缩&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
@@ -350,7 +350,7 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-77" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;更新&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;FDM-YOLO-B模型&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="317.9423076923077" y="392" width="144.51923076923077" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-78" value="&lt;b&gt;模型压缩&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-78" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;模型压缩&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="332.3942307692308" y="452" width="115.61538461538461" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-79" value="&lt;b&gt;边缘部署&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
