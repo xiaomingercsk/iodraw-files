@@ -278,7 +278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-111" value="" style="group;strokeColor=none;" parent="4" vertex="1" connectable="0">
-          <mxGeometry y="40" width="501" height="542" as="geometry" />
+          <mxGeometry y="29" width="501" height="542" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-32" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;自建数据集A&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="67.4423076923077" width="115.61538461538461" height="27" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry x="250.5" y="72" width="115.61538461538461" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-48" value="FDM-YOLO-B模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
-          <mxGeometry x="404.6538461538462" y="72" width="103" height="33.5" as="geometry" />
+          <mxGeometry x="404.6538461538462" y="72" width="110" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-49" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;特征融合输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry y="142" width="115.61538461538461" height="30" as="geometry" />
