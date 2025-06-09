@@ -273,7 +273,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="910" y="130" width="490" height="600" as="geometry">
+          <mxGeometry x="910" y="130" width="507.8238461538462" height="600" as="geometry">
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -294,9 +294,6 @@
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-46" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="250.5" y="72" width="115.61538461538461" height="33.5" as="geometry" />
-        </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-48" value="FDM-YOLO-B模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
-          <mxGeometry x="404.6538461538462" y="72" width="110" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-49" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;特征融合输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry y="142" width="115.61538461538461" height="30" as="geometry" />
@@ -405,9 +402,6 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-46" target="H4w8OkcAUNcY7MMWdHHq-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-48" target="H4w8OkcAUNcY7MMWdHHq-73" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-71" target="H4w8OkcAUNcY7MMWdHHq-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -438,6 +432,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#7EA6E0;strokeWidth=3;" parent="4" source="H4w8OkcAUNcY7MMWdHHq-33" target="H4w8OkcAUNcY7MMWdHHq-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-48" value="FDM-YOLO-B模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" parent="4" vertex="1">
+          <mxGeometry x="397.8238461538462" y="110" width="110" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="4" source="H4w8OkcAUNcY7MMWdHHq-48" target="H4w8OkcAUNcY7MMWdHHq-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
