@@ -365,7 +365,7 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-50" target="H4w8OkcAUNcY7MMWdHHq-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-87" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;图像特征&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H4w8OkcAUNcY7MMWdHHq-85" vertex="1" connectable="0">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-87" value="&lt;b&gt;&lt;font color=&quot;#333333&quot; face=&quot;Comic Sans MS&quot;&gt;图像特征&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H4w8OkcAUNcY7MMWdHHq-85" vertex="1" connectable="0">
           <mxGeometry x="-0.0129" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
