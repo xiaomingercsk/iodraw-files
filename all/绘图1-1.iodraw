@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1006" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,13 +171,8 @@
             <mxPoint x="70" y="325.0285714285713" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgBzwUtMspDInlfKHb6L-94" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;数据输入&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=11;fontColor=#FF3333;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-93" vertex="1" connectable="0">
+        <mxCell id="FgBzwUtMspDInlfKHb6L-94" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;数据输入&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=11;fontColor=#333333;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-93" vertex="1" connectable="0">
           <mxGeometry x="0.0101" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D9dJnnbptltqakQHqosd-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;" vertex="1" connectable="0" parent="FgBzwUtMspDInlfKHb6L-93">
-          <mxGeometry x="0.058" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
