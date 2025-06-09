@@ -185,7 +185,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgBzwUtMspDInlfKHb6L-100" value="&lt;font style=&quot;&quot; face=&quot;Comic Sans MS&quot; color=&quot;#ff3333&quot;&gt;数据输入&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-99" vertex="1" connectable="0">
+        <mxCell id="FgBzwUtMspDInlfKHb6L-100" value="&lt;font color=&quot;#333333&quot; style=&quot;&quot; face=&quot;Comic Sans MS&quot;&gt;数据输入&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-99" vertex="1" connectable="0">
           <mxGeometry x="0.0807" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -198,11 +198,6 @@
         </mxCell>
         <mxCell id="FgBzwUtMspDInlfKHb6L-106" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;参数优化&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-105" vertex="1" connectable="0">
           <mxGeometry x="-0.0472" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D9dJnnbptltqakQHqosd-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;" vertex="1" connectable="0" parent="FgBzwUtMspDInlfKHb6L-105">
-          <mxGeometry x="-0.0432" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
