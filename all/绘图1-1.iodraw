@@ -95,7 +95,7 @@
         </mxCell>
         <mxCell id="D9dJnnbptltqakQHqosd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;curved=0;" edge="1" parent="2" source="wUx7-PRF4vKeLLYOG6BX-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="211" y="130" as="targetPoint" />
+            <mxPoint x="215" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-116" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;筛选和归纳&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;container=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="2" vertex="1">
