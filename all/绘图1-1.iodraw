@@ -279,7 +279,7 @@
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-111" value="" style="group;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="4" vertex="1" connectable="0">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-111" value="" style="group;strokeColor=none;" parent="4" vertex="1" connectable="0">
           <mxGeometry y="40" width="500" height="542" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;自建数据集A&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
@@ -288,13 +288,13 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-33" value="&lt;b&gt;自建数据集B&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="317.3076923076923" width="115.38461538461539" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-43" value="&lt;b&gt;FDM-YOLO-AC模型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-43" value="&lt;b&gt;FDM-YOLO-AC模型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry y="72" width="115.38461538461539" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-158" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-44" target="H4w8OkcAUNcY7MMWdHHq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-44" value="FDM-YOLO-A模型" style="fontStyle=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-44" value="FDM-YOLO-A模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="134.6153846153846" y="72" width="105.76923076923077" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-46" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
