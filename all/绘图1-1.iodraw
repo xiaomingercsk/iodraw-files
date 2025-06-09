@@ -185,7 +185,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgBzwUtMspDInlfKHb6L-100" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;数据输入&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-99" vertex="1" connectable="0">
+        <mxCell id="FgBzwUtMspDInlfKHb6L-100" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ff3333&quot;&gt;数据输入&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-99" vertex="1" connectable="0">
           <mxGeometry x="0.0807" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
