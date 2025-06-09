@@ -112,7 +112,7 @@
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-107" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: 宋体;&quot;&gt;像素变换：&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;高斯噪声、图像明亮度调整、像素平移。&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="2" vertex="1">
           <mxGeometry x="221.15" y="250" width="102.9" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="绝缘子缺陷检测模型" style="swimlane;whiteSpace=wrap;startSize=23;fontSize=20;swimlaneLine=0;strokeColor=none;fillColor=#647687;fontColor=#ffffff;fontFamily=Verdana;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="3" value="绝缘子缺陷检测模型" style="swimlane;whiteSpace=wrap;startSize=23;fontSize=20;swimlaneLine=0;strokeColor=none;fillColor=#647687;fontColor=#ffffff;fontFamily=Comic Sans MS;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="450" y="130" width="440" height="600" as="geometry">
             <mxRectangle x="345.02" y="-250.00000000000006" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -299,7 +299,7 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-222" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="3" vertex="1">
           <mxGeometry x="-60" y="320" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Verdana;swimlaneFillColor=default;" parent="1" vertex="1">
+        <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="890" y="130" width="510" height="600" as="geometry">
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
