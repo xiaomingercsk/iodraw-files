@@ -102,7 +102,7 @@
           <mxGeometry x="20" y="110" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="绝缘子缺陷检测模型开发" style="swimlane;whiteSpace=wrap;startSize=23;fontSize=20;swimlaneLine=0;strokeColor=none;fillColor=#647687;fontColor=#ffffff;fontFamily=Comic Sans MS;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="440" y="130" width="460" height="600" as="geometry">
+          <mxGeometry x="450" y="130" width="460" height="600" as="geometry">
             <mxRectangle x="345.02" y="-250.00000000000006" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -284,7 +284,7 @@
           <mxGeometry x="98.25" y="500" width="123.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="D9dJnnbptltqakQHqosd-91" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="3">
-          <mxGeometry x="246.5" y="500" width="115.61538461538461" height="33.5" as="geometry" />
+          <mxGeometry x="242.19" y="500" width="115.61538461538461" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="507.8238461538462" height="600" as="geometry">
