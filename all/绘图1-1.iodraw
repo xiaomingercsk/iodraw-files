@@ -272,6 +272,9 @@
         <mxCell id="D9dJnnbptltqakQHqosd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" edge="1" parent="3" source="31" target="15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D9dJnnbptltqakQHqosd-50" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FDM-YOLO-AC模型&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
+          <mxGeometry x="98.25" y="500" width="123.5" height="33.5" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="507.8238461538462" height="600" as="geometry">
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
@@ -439,9 +442,6 @@
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="4" source="H4w8OkcAUNcY7MMWdHHq-32" target="H4w8OkcAUNcY7MMWdHHq-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D9dJnnbptltqakQHqosd-50" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FDM-YOLO-AC模型&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="500" y="770" width="125.63076" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="D9dJnnbptltqakQHqosd-91" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="880" y="760" width="115.61538461538461" height="33.5" as="geometry" />
