@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4KMRSXFIfJRH1JYcElbV-45" value="&lt;h2 style=&quot;font-size: 23px;&quot;&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;a name=&quot;OLE_LINK3&quot;&gt;&lt;span style=&quot;font-size: 22pt; font-family: 宋体;&quot;&gt;面向复杂环境&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 22pt; font-family: 宋体;&quot;&gt;的轻量化绝缘子缺陷检测模型的开发和应用&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;color:#EE0000&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="4KMRSXFIfJRH1JYcElbV-45" value="&lt;h2 style=&quot;font-size: 23px;&quot;&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;a name=&quot;OLE_LINK3&quot;&gt;&lt;span style=&quot;font-size: 22pt;&quot;&gt;面向复杂环境&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 22pt;&quot;&gt;的轻量化绝缘子缺陷检测模型的开发和应用&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size:22.0pt;color:#EE0000&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="50" y="42" width="1350" height="88" as="geometry" />
         </mxCell>
         <mxCell id="2" value="                  绝缘子缺陷数据集" style="swimlane;whiteSpace=wrap;fontSize=20;startSize=23;swimlaneLine=0;strokeColor=none;align=left;fillColor=#6d8764;fontColor=#ffffff;fontFamily=Verdana;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
@@ -299,7 +299,7 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-222" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="3" vertex="1">
           <mxGeometry x="-60" y="320" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=1;fontFamily=Verdana;swimlaneFillColor=default;" parent="1" vertex="1">
+        <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Verdana;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="890" y="130" width="510" height="600" as="geometry">
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
