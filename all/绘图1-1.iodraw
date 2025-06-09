@@ -298,7 +298,7 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-50" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#1a1a1a&quot;&gt;特征融合输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="134.8846153846154" y="142" width="105.98076923076924" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-54" value="&lt;b&gt;特征对齐&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-54" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;特征对齐&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="67.4423076923077" y="222" width="115.61538461538461" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-65" value="&lt;b&gt;MSE损失计算&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
