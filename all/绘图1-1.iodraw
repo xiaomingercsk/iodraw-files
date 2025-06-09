@@ -275,7 +275,7 @@
         <mxCell id="D9dJnnbptltqakQHqosd-50" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FDM-YOLO-AC模型&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3">
           <mxGeometry x="98.25" y="500" width="123.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="D9dJnnbptltqakQHqosd-91" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="3">
+        <mxCell id="D9dJnnbptltqakQHqosd-91" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="3">
           <mxGeometry x="250" y="500" width="115.61538461538461" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
@@ -283,7 +283,7 @@
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-111" value="" style="group;strokeColor=none;" parent="4" vertex="1" connectable="0">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-111" value="" style="group;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="4" vertex="1" connectable="0">
           <mxGeometry y="29" width="501" height="542" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-158" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-44" target="H4w8OkcAUNcY7MMWdHHq-50" edge="1">
