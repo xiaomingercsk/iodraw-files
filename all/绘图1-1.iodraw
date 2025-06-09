@@ -107,7 +107,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FgBzwUtMspDInlfKHb6L-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;strokeWidth=3;" parent="3" source="15" target="FgBzwUtMspDInlfKHb6L-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="164" y="244" />
+              <mxPoint x="164" y="269" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="15" value="FDM-YOLO-A模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" parent="3" vertex="1">
           <mxGeometry x="110" y="192" width="107" height="27" as="geometry" />
