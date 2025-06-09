@@ -54,10 +54,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-125" value="" style="group" parent="2" vertex="1" connectable="0">
-          <mxGeometry x="10" y="110" width="192" height="30" as="geometry" />
+          <mxGeometry x="10" y="110" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-116" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;筛选和归纳&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;container=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="H4w8OkcAUNcY7MMWdHHq-125" vertex="1">
-          <mxGeometry width="96" height="30" as="geometry" />
+          <mxGeometry width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="2" source="wUx7-PRF4vKeLLYOG6BX-104" target="wUx7-PRF4vKeLLYOG6BX-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
