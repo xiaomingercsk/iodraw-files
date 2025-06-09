@@ -101,7 +101,7 @@
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-116" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;筛选和归纳&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;container=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="2" vertex="1">
           <mxGeometry x="20" y="110" width="108" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="绝缘子缺陷检测模型" style="swimlane;whiteSpace=wrap;startSize=23;fontSize=20;swimlaneLine=0;strokeColor=none;fillColor=#647687;fontColor=#ffffff;fontFamily=Comic Sans MS;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="3" value="绝缘子缺陷检测模型开发" style="swimlane;whiteSpace=wrap;startSize=23;fontSize=20;swimlaneLine=0;strokeColor=none;fillColor=#647687;fontColor=#ffffff;fontFamily=Comic Sans MS;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="450" y="130" width="460" height="600" as="geometry">
             <mxRectangle x="345.02" y="-250.00000000000006" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -154,7 +154,7 @@
         <mxCell id="FgBzwUtMspDInlfKHb6L-102" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;strokeWidth=3;" parent="3" source="FgBzwUtMspDInlfKHb6L-83" target="FgBzwUtMspDInlfKHb6L-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FgBzwUtMspDInlfKHb6L-83" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;训练参数设置&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#76608a;strokeColor=#432D57;" parent="3" vertex="1">
+        <mxCell id="FgBzwUtMspDInlfKHb6L-83" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;训练参数设置&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="3" vertex="1">
           <mxGeometry x="255.5" y="269" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-151" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;strokeWidth=3;" parent="3" source="31" target="15" edge="1">
