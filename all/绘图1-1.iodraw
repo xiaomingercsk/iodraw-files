@@ -284,7 +284,7 @@
           <mxGeometry x="67.3076923076923" width="115.38461538461539" height="27" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-43" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FDM-YOLO-AC模型&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
-          <mxGeometry x="-10" y="72" width="125.38" height="33.5" as="geometry" />
+          <mxGeometry x="-5" y="72" width="125.38" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-158" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="H4w8OkcAUNcY7MMWdHHq-111" source="H4w8OkcAUNcY7MMWdHHq-44" target="H4w8OkcAUNcY7MMWdHHq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
