@@ -102,7 +102,7 @@
           <mxGeometry x="20" y="110" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="绝缘子缺陷检测模型开发" style="swimlane;whiteSpace=wrap;startSize=23;fontSize=20;swimlaneLine=0;strokeColor=none;fillColor=#647687;fontColor=#ffffff;fontFamily=Comic Sans MS;swimlaneFillColor=default;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="450" y="120" width="460" height="600" as="geometry">
+          <mxGeometry x="450" y="130" width="460" height="600" as="geometry">
             <mxRectangle x="345.02" y="-250.00000000000006" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -217,7 +217,7 @@
           <mxGeometry x="250" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-118" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 12px;&quot;&gt;自建数据集&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;ILSqoMErwT2hpBynYHvG&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="3" vertex="1">
-          <mxGeometry x="50" y="249.99999999999994" width="21.52" height="148.25" as="geometry" />
+          <mxGeometry x="50" y="199.99999999999994" width="21.52" height="148.25" as="geometry" />
         </mxCell>
         <mxCell id="FgBzwUtMspDInlfKHb6L-49" value="模型改进" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=none;spacing=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="3" vertex="1">
           <mxGeometry x="30" y="90" width="90" height="90" as="geometry" />
