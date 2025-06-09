@@ -297,13 +297,13 @@
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-44" value="FDM-YOLO-A模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="134.6153846153846" y="72" width="105.76923076923077" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-46" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-46" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="250" y="72" width="115.38461538461539" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-48" value="FDM-YOLO-B模型" style="fontStyle=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-48" value="FDM-YOLO-B模型" style="fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry x="403.84615384615387" y="72" width="96.15384615384616" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="H4w8OkcAUNcY7MMWdHHq-49" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;特征融合输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
+        <mxCell id="H4w8OkcAUNcY7MMWdHHq-49" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;特征融合输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
           <mxGeometry y="142" width="115.38461538461539" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-50" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;特征融合输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="H4w8OkcAUNcY7MMWdHHq-111" vertex="1">
