@@ -43,7 +43,7 @@
         <mxCell id="a-j7l1azqjVm9wvlU14C-14" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="595" y="320" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iXILr2j9mbMpDypRhGjp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;" vertex="1" parent="1">
+        <mxCell id="iXILr2j9mbMpDypRhGjp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fontColor=#393C56;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="30" y="250" width="140" height="120" as="geometry" />
         </mxCell>
       </root>
