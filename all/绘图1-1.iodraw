@@ -43,7 +43,7 @@
         <mxCell id="7" value="公开数据集" style="fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;fontFamily=Comic Sans MS;" parent="2" vertex="1">
           <mxGeometry x="70" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KMRSXFIfJRH1JYcElbV-62" value="自建数据集" style="fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="2" vertex="1">
+        <mxCell id="4KMRSXFIfJRH1JYcElbV-62" value="自建数据集" style="fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="2" vertex="1">
           <mxGeometry x="280" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUx7-PRF4vKeLLYOG6BX-95" value="&lt;font style=&quot;&quot; color=&quot;#1a1a1a&quot;&gt;数据增强&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="2" vertex="1">
