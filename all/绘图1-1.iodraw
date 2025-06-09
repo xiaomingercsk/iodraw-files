@@ -171,7 +171,7 @@
             <mxPoint x="70" y="325.0285714285713" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgBzwUtMspDInlfKHb6L-94" value="&lt;b&gt;数据输入&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#FF3333;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-93" vertex="1" connectable="0">
+        <mxCell id="FgBzwUtMspDInlfKHb6L-94" value="&lt;b&gt;数据输入&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=11;fontColor=#FF3333;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-93" vertex="1" connectable="0">
           <mxGeometry x="0.0101" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
