@@ -283,6 +283,9 @@
             <mxPoint x="230" y="61.999999999999886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D9dJnnbptltqakQHqosd-94" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-weight: 700;&quot;&gt;FDM-YOLO模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;" vertex="1" parent="3">
+          <mxGeometry x="310" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="                        绝缘子缺陷检测模型部署" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="930" y="130" width="487.82" height="600" as="geometry">
             <mxRectangle x="724.5" y="128" width="90" height="30" as="alternateBounds" />
@@ -450,9 +453,6 @@
         </mxCell>
         <mxCell id="H4w8OkcAUNcY7MMWdHHq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;strokeColor=#7EA6E0;" parent="4" source="H4w8OkcAUNcY7MMWdHHq-32" target="H4w8OkcAUNcY7MMWdHHq-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D9dJnnbptltqakQHqosd-94" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="700" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
