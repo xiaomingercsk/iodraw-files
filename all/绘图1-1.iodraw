@@ -210,7 +210,7 @@
         <mxCell id="FgBzwUtMspDInlfKHb6L-101" value="&lt;pre&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;训练结果分析&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="3" vertex="1">
           <mxGeometry x="250" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D9dJnnbptltqakQHqosd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" edge="1" parent="3" source="FgBzwUtMspDInlfKHb6L-107">
+        <mxCell id="D9dJnnbptltqakQHqosd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;curved=0;strokeWidth=3;" edge="1" parent="3" source="FgBzwUtMspDInlfKHb6L-107">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160.0689655172414" y="500" as="targetPoint" />
           </mxGeometry>
@@ -284,7 +284,7 @@
           <mxGeometry x="98.25" y="500" width="123.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="D9dJnnbptltqakQHqosd-91" value="FDM-YOLO-BC模型" style="fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="3">
-          <mxGeometry x="250" y="500" width="115.61538461538461" height="33.5" as="geometry" />
+          <mxGeometry x="246.5" y="500" width="115.61538461538461" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4" value="                 绝缘子缺陷检测模型特征蒸馏" style="swimlane;whiteSpace=wrap;swimlaneLine=0;strokeColor=none;startSize=23;fillColor=#a0522d;fontSize=20;align=left;fontColor=#ffffff;fontStyle=0;fontFamily=Comic Sans MS;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="507.8238461538462" height="600" as="geometry">
