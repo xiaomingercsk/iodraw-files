@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgBzwUtMspDInlfKHb6L-92" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;参数优化&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-91" vertex="1" connectable="0">
+        <mxCell id="FgBzwUtMspDInlfKHb6L-92" value="&lt;b&gt;&lt;font&gt;参数优化&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=11;fontColor=#333333;labelBackgroundColor=default;" parent="FgBzwUtMspDInlfKHb6L-91" vertex="1" connectable="0">
           <mxGeometry x="-0.0263" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
