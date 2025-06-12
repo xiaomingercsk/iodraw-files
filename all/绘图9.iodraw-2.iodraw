@@ -10,19 +10,19 @@
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-3" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;无人机摄像头采集&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;检测结果生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;检测结果生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-6" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;边缘智能设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-7" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;轻量化的缺陷检测模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-7" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;轻量化的缺陷检测模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="50" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-9" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;电脑端软件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-9" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;电脑端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="70" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-10" value="&lt;font style=&quot;font-size: 10.5px;&quot;&gt;手机端软件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-10" value="&lt;font style=&quot;font-size: 10.5px;&quot;&gt;手机端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-12" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;可视化检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
