@@ -11,13 +11,16 @@
           <mxGeometry x="100" y="70" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="检测结果生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="130" height="30" as="geometry" />
+          <mxGeometry x="450" y="110" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-6" value="边缘智能设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-7" value="轻量化的缺陷检测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
