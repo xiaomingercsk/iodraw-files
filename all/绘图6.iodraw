@@ -34,7 +34,7 @@
           <mxGeometry x="440" y="-50" width="17.5" height="149.64" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-12" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;雾天场景下的缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;horizontal=1;direction=south;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="353.8" y="500" width="146.2" height="16.95" as="geometry" />
+          <mxGeometry x="180" y="460" width="146.2" height="16.95" as="geometry" />
         </mxCell>
         <mxCell id="UOeKOD3BSmhCDODwXqJn-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=35.84;direction=south;notch=0;rotation=-115;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="660" width="33.13" height="73.49" as="geometry" />
