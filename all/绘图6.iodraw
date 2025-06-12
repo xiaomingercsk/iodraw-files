@@ -91,7 +91,7 @@
           <mxGeometry x="189.35000000000002" y="750" width="127.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-6" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;雨/雪/雾天气下的&lt;span style=&quot;font-size: 10.5px;&quot;&gt;缺陷绝缘子图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="980" y="680" width="175" height="40" as="geometry" />
+          <mxGeometry x="1005" y="650" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;高分辨图像生成器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1060" y="720" width="120" height="40" as="geometry" />
@@ -103,10 +103,10 @@
           <mxGeometry x="435" y="950" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-11" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;不同的&lt;span style=&quot;font-size: 10.5px;&quot;&gt;雨/雪/雾天气下的&lt;/span&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;缺陷绝缘子图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1120" width="225" height="40" as="geometry" />
+          <mxGeometry x="970" y="860" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-12" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;不同尺寸的多模态&lt;span style=&quot;font-size: 10.5px;&quot;&gt;缺陷绝缘子图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="440" y="880" width="220" height="40" as="geometry" />
+          <mxGeometry x="960" y="930" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-13" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;多尺度多模态&lt;span style=&quot;font-size: 10.5px;&quot;&gt;缺陷绝缘子融合图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="444.37" y="1010" width="188.75" height="40" as="geometry" />
