@@ -99,8 +99,8 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="213.10000000000002" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nb7_QagdtMbh-xd7UO8D-9" value="始图像尺寸相同的多模态绝缘子图像。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453.13" y="740" width="171.25" height="40" as="geometry" />
+        <mxCell id="nb7_QagdtMbh-xd7UO8D-9" value="原始始图像尺寸多模态绝缘子图像。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="740" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
