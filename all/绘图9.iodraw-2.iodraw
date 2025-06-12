@@ -7,21 +7,6 @@
         <mxCell id="a-j7l1azqjVm9wvlU14C-5" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;多尺度缺陷绝缘子图像&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="160" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-8" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="340" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-9" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="240" y="300" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="390" y="300" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-13" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="595" y="300" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="a-j7l1azqjVm9wvlU14C-14" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="595" y="320" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
