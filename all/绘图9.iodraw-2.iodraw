@@ -21,13 +21,13 @@
             <mxPoint x="595" y="125.13793103448279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;检测结果生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;检测结果生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="110" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-6" target="kmLhMQQ0SF52eD6qPz0N-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-6" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;边缘智能设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-6" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;边缘智能设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-7" target="kmLhMQQ0SF52eD6qPz0N-6">
@@ -39,7 +39,7 @@
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-9" target="kmLhMQQ0SF52eD6qPz0N-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-9" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;电脑端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-9" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;电脑端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="530" y="70" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;手机端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
