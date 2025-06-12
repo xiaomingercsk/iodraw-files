@@ -10,8 +10,8 @@
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-3" value="无人机摄像头采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="30" width="120" height="30" as="geometry" />
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-4" value="轻量化的缺陷检测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
