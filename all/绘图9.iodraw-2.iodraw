@@ -51,8 +51,8 @@
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="325" y="65" width="90" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-85;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="50" height="100" as="geometry" />
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="575" y="165" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
