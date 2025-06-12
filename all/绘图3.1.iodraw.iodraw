@@ -65,7 +65,7 @@
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="VU2_phv_vQF9ucMQvQTQ-5" target="VU2_phv_vQF9ucMQvQTQ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VU2_phv_vQF9ucMQvQTQ-5" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;1×1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="VU2_phv_vQF9ucMQvQTQ-5" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot; style=&quot;font-size: 10.5px;&quot;&gt;1×1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="434.19" y="117.5" width="43.28" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="VU2_phv_vQF9ucMQvQTQ-6" target="VU2_phv_vQF9ucMQvQTQ-18" edge="1">
