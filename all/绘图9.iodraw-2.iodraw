@@ -77,6 +77,79 @@
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-36" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测软件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586.25" y="230" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-39" target="kmLhMQQ0SF52eD6qPz0N-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-38" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;输入&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="kmLhMQQ0SF52eD6qPz0N-37">
+          <mxGeometry x="-0.1487" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-39" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;绝缘子图像数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="61.25" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-40" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;无人机摄像头采集&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66.25" y="181.25" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="124.75862068965523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-42" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;可视化显示&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="kmLhMQQ0SF52eD6qPz0N-41">
+          <mxGeometry x="-0.1072" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-43" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;检测结果生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-46" target="kmLhMQQ0SF52eD6qPz0N-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-45" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;实时检测&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="kmLhMQQ0SF52eD6qPz0N-44">
+          <mxGeometry x="-0.1704" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-46" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;边缘智能设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-49" target="kmLhMQQ0SF52eD6qPz0N-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-48" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;部署&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="kmLhMQQ0SF52eD6qPz0N-47">
+          <mxGeometry x="-0.3816" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-49" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;轻量化的缺陷检测模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="41.25" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="kmLhMQQ0SF52eD6qPz0N-51" target="kmLhMQQ0SF52eD6qPz0N-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-51" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;电脑端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="576.25" y="71.25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-52" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;手机端软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="576.25" y="151.25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-53" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;dashed=1;dashPattern=8 8;fillColor=none;fillStyle=zigzag-line;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="113.75" width="37.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-54" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="348.75" y="41.25" width="42.5" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-55" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;dashed=1;dashPattern=8 8;fillColor=none;fillStyle=zigzag-line;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="151.25" width="37.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测硬件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="183.75" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-57" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测软件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="586.25" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
