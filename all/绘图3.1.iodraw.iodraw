@@ -8,10 +8,10 @@
           <mxGeometry x="365.54" y="10" width="77.03" height="77.03" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-52" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10.5px;&quot;&gt;Standard Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="565" width="41.28" height="165" as="geometry" />
+          <mxGeometry x="301" y="550" width="41.28" height="165" as="geometry" />
         </mxCell>
         <mxCell id="JsDCUY7JIws27jTc0x-p-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10.5px;&quot;&gt;Atrous Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="585" width="59.66" height="165" as="geometry" />
+          <mxGeometry x="451.81" y="550" width="59.66" height="165" as="geometry" />
         </mxCell>
         <mxCell id="VU2_phv_vQF9ucMQvQTQ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="565" width="43.28" height="62.5" as="geometry" />
