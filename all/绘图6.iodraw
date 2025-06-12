@@ -87,6 +87,11 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nb7_QagdtMbh-xd7UO8D-5" target="nb7_QagdtMbh-xd7UO8D-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nb7_QagdtMbh-xd7UO8D-20" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nb7_QagdtMbh-xd7UO8D-19">
+          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-5" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;跨模态生成器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="130" y="760" width="127.5" height="20" as="geometry" />
         </mxCell>
