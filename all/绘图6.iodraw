@@ -103,13 +103,13 @@
           <mxGeometry x="398.75" y="740" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-10" value="&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;多模态绝缘子图像多尺度空间增广算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="450" y="970" width="210" height="40" as="geometry" />
+          <mxGeometry x="450" y="950" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-11" value="不同的&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;雨/雪/雾天气下的&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;缺陷绝缘子图像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="820" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nb7_QagdtMbh-xd7UO8D-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="880" width="208.75" height="40" as="geometry" />
+        <mxCell id="nb7_QagdtMbh-xd7UO8D-12" value="不同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="880" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
