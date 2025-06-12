@@ -77,7 +77,7 @@
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-35" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测硬件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="183.75" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmLhMQQ0SF52eD6qPz0N-36" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测硬件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmLhMQQ0SF52eD6qPz0N-36" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测软件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586.25" y="241.25" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
