@@ -111,8 +111,8 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-12" value="不同尺寸的多模态&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;缺陷绝缘子图像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="880" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nb7_QagdtMbh-xd7UO8D-13" value="多模态&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;缺陷绝缘子图像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="1030" width="188.75" height="40" as="geometry" />
+        <mxCell id="nb7_QagdtMbh-xd7UO8D-13" value="多尺度多模态&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;缺陷绝缘子融合图像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444.37" y="1010" width="188.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
