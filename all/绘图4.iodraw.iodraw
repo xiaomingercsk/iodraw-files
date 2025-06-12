@@ -4,16 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_bR4O3_42dC21eaxGK4E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=diamondThin;endFill=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" source="iWMctNq9JwmVIzHZf3o_-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="343.5" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Jg-CkFixpxenBzow9DvL-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_bR4O3_42dC21eaxGK4E-3">
-          <mxGeometry x="0.1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iWMctNq9JwmVIzHZf3o_-1" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;原始特征图&lt;/font&gt;&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;Times New Roman&quot;&gt;H×W×C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="271.5" y="50" width="144" height="30" as="geometry" />
         </mxCell>
