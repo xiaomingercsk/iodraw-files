@@ -11,13 +11,13 @@
           <mxGeometry x="140" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-8" value="模型设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-9" value="轻量化方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="310" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="300" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-10" value="系统开放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="380" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="370" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
