@@ -100,8 +100,16 @@
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-29" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;模块设计&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="260" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-33" target="WSwIzcsFpwpCBVFgFwlt-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-33" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;注意力优化&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-34" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;特征蒸馏&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="400" width="70" height="30" as="geometry" />
