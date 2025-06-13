@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-2" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;开发环境选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="119" height="50" as="geometry" />
+          <mxGeometry x="90" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-3" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;核心算法选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="120" height="50" as="geometry" />
+          <mxGeometry x="250" y="250" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-4" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;系统界面设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="250" width="120" height="50" as="geometry" />
