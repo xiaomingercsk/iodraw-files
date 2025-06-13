@@ -32,10 +32,13 @@
           <mxGeometry x="370" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdKtVAU9hbmWJwIS9osq-10" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;边缘设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="285" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdKtVAU9hbmWJwIS9osq-11" value="适配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdKtVAU9hbmWJwIS9osq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdKtVAU9hbmWJwIS9osq-11" target="pdKtVAU9hbmWJwIS9osq-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
