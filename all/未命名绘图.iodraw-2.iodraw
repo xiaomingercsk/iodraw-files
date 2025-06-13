@@ -46,8 +46,11 @@
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-17" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;手机端软件开发&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="290" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NZNFeRAdIYUEdzvyzdG0-22" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;数据来源&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="110" height="40" as="geometry" />
+        <mxCell id="NZNFeRAdIYUEdzvyzdG0-22" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;模型选择&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NZNFeRAdIYUEdzvyzdG0-23" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;数据来源&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
