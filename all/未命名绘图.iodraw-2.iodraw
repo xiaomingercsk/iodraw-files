@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-2" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;开发环境选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="170" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-3" target="NZNFeRAdIYUEdzvyzdG0-4">
           <mxGeometry relative="1" as="geometry" />
@@ -31,8 +31,8 @@
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;数据来源&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="190" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NZNFeRAdIYUEdzvyzdG0-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="110" height="40" as="geometry" />
+        <mxCell id="NZNFeRAdIYUEdzvyzdG0-15" value="电脑端软件开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
