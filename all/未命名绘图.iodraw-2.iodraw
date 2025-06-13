@@ -72,13 +72,13 @@
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;边缘设备输入&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="750" y="180" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NZNFeRAdIYUEdzvyzdG0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=open;endFill=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-15" target="NZNFeRAdIYUEdzvyzdG0-2">
+        <mxCell id="NZNFeRAdIYUEdzvyzdG0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=open;endFill=0;fillColor=#ffff88;strokeColor=#36393d;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-15" target="NZNFeRAdIYUEdzvyzdG0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-15" value="电脑端软件开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="270" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NZNFeRAdIYUEdzvyzdG0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-17" target="NZNFeRAdIYUEdzvyzdG0-2">
+        <mxCell id="NZNFeRAdIYUEdzvyzdG0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-17" target="NZNFeRAdIYUEdzvyzdG0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-17" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;手机端软件开发&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
