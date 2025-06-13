@@ -46,7 +46,7 @@
         <mxCell id="pdKtVAU9hbmWJwIS9osq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pdKtVAU9hbmWJwIS9osq-11" target="pdKtVAU9hbmWJwIS9osq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdKtVAU9hbmWJwIS9osq-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;无人机&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pdKtVAU9hbmWJwIS9osq-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="350" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
