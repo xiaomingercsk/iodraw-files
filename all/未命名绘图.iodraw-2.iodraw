@@ -22,7 +22,7 @@
         <mxCell id="sK-JeNWhbX5yk5fxhXab-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;FB模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sK-JeNWhbX5yk5fxhXab-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=openThin;endFill=0;strokeWidth=2;" edge="1" parent="1" source="sK-JeNWhbX5yk5fxhXab-4" target="sK-JeNWhbX5yk5fxhXab-1">
+        <mxCell id="sK-JeNWhbX5yk5fxhXab-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=openThin;endFill=0;strokeWidth=2;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" edge="1" parent="1" source="sK-JeNWhbX5yk5fxhXab-4" target="sK-JeNWhbX5yk5fxhXab-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sK-JeNWhbX5yk5fxhXab-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;FC注意力&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
