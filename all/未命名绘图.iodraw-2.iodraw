@@ -32,7 +32,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="275" />
-              <mxPoint x="120" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,10 +45,10 @@
           <mxGeometry x="140" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-9" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;轻量化方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="350" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="350" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-10" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;系统开法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-17" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;数据归纳&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="110" width="70" height="30" as="geometry" />
