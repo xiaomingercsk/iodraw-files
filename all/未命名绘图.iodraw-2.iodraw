@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-7" value="数据集构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="70" height="30" as="geometry" />
+          <mxGeometry x="180" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-8" value="模型设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="70" height="30" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-9" value="轻量化方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WSwIzcsFpwpCBVFgFwlt-10" value="轻量化方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-10" value="系统开放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
