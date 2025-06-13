@@ -55,14 +55,10 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;晴天天气下的缺陷绝缘子图像&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="52.11" y="735" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nb7_QagdtMbh-xd7UO8D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" parent="1" source="nb7_QagdtMbh-xd7UO8D-16" edge="1">
+        <mxCell id="nb7_QagdtMbh-xd7UO8D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="359" y="670" />
-              <mxPoint x="191" y="670" />
-              <mxPoint x="191" y="700" />
-            </Array>
+            <mxPoint x="190.58" y="700" as="targetPoint" />
+            <mxPoint x="359.99499999999995" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" source="nb7_QagdtMbh-xd7UO8D-16" edge="1">
