@@ -27,9 +27,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZNFeRAdIYUEdzvyzdG0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-4" target="NZNFeRAdIYUEdzvyzdG0-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-4" target="NZNFeRAdIYUEdzvyzdG0-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -37,6 +34,9 @@
               <mxPoint x="570" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NZNFeRAdIYUEdzvyzdG0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NZNFeRAdIYUEdzvyzdG0-4" target="NZNFeRAdIYUEdzvyzdG0-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZNFeRAdIYUEdzvyzdG0-4" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;系统界面设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="110" height="40" as="geometry" />
