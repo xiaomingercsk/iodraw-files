@@ -21,7 +21,7 @@
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-1" target="WSwIzcsFpwpCBVFgFwlt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WSwIzcsFpwpCBVFgFwlt-1" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;研究对像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-1" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;研究对像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry y="310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-7" target="WSwIzcsFpwpCBVFgFwlt-17">
@@ -143,6 +143,9 @@
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-42" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5px;&quot;&gt;轻量化模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-43" target="WSwIzcsFpwpCBVFgFwlt-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-43" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;边缘检测系统&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="70" height="30" as="geometry" />
