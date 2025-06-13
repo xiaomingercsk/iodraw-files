@@ -72,8 +72,16 @@
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-17" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;数据归纳&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="60" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="125.10344827586209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-18" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;数据增强&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-21" target="WSwIzcsFpwpCBVFgFwlt-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;算法生成&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="70" height="30" as="geometry" />
