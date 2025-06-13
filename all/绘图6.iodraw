@@ -34,7 +34,7 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;高分辨图像生成器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="440" y="750" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZcNNaxqBHc298nA4RAMo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nb7_QagdtMbh-xd7UO8D-9" target="nb7_QagdtMbh-xd7UO8D-10">
+        <mxCell id="ZcNNaxqBHc298nA4RAMo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="nb7_QagdtMbh-xd7UO8D-9" target="nb7_QagdtMbh-xd7UO8D-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-9" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;原始图像尺寸的多模态缺陷绝缘子图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=90;horizontal=0;" parent="1" vertex="1">
