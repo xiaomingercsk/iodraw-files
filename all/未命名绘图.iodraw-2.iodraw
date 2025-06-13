@@ -38,7 +38,20 @@
           <mxGeometry x="530" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JES8zZpxzI67cb9eJ_r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JES8zZpxzI67cb9eJ_r-17" target="-JES8zZpxzI67cb9eJ_r-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="226" />
+              <mxPoint x="630" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JES8zZpxzI67cb9eJ_r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JES8zZpxzI67cb9eJ_r-17" target="-JES8zZpxzI67cb9eJ_r-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="226" />
+              <mxPoint x="630" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-JES8zZpxzI67cb9eJ_r-17" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;研究方法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="561.25" y="215" width="100" height="22.5" as="geometry" />
