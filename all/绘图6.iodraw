@@ -46,6 +46,9 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-10" value="&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;多模态绝缘子图像多尺度空间增广算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="600" y="740.51" width="124.22" height="58.98" as="geometry" />
         </mxCell>
+        <mxCell id="ZcNNaxqBHc298nA4RAMo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nb7_QagdtMbh-xd7UO8D-13" target="ZcNNaxqBHc298nA4RAMo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nb7_QagdtMbh-xd7UO8D-13" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;多尺度多模态&lt;span style=&quot;font-size: 10.5px;&quot;&gt;缺陷绝缘子融合图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="690" y="743.21" width="123.21" height="53.58" as="geometry" />
         </mxCell>
@@ -68,8 +71,8 @@
         <mxCell id="nb7_QagdtMbh-xd7UO8D-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 10.5px;&quot;&gt;多模态绝缘子图像高分辨转换算法&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="351.17" y="600" width="178.83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZcNNaxqBHc298nA4RAMo-5" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;自建数据集A中&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;50%&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的图像样本&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="350" y="920" width="70" height="70" as="geometry" />
+        <mxCell id="ZcNNaxqBHc298nA4RAMo-5" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;自建数据集B&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="813.21" y="735" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
