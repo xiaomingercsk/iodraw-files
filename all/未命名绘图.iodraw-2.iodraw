@@ -84,7 +84,7 @@
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-39" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;边缘设备&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="510" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WSwIzcsFpwpCBVFgFwlt-40" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;边缘设备&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-40" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;无人机&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="570" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
