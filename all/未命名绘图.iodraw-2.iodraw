@@ -40,6 +40,9 @@
         <mxCell id="pdKtVAU9hbmWJwIS9osq-11" value="适配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pdKtVAU9hbmWJwIS9osq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pdKtVAU9hbmWJwIS9osq-11" target="pdKtVAU9hbmWJwIS9osq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
