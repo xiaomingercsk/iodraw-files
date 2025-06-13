@@ -128,16 +128,16 @@
           <mxGeometry x="290" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-JES8zZpxzI67cb9eJ_r-79" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;&lt;b&gt;实验模块建立&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="530" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="530" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JES8zZpxzI67cb9eJ_r-81" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;数据增强&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;＋&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;数据生成&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="450" y="595" width="100" height="50" as="geometry" />
+          <mxGeometry x="450" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-JES8zZpxzI67cb9eJ_r-84" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;小目标缺陷检测模型设计&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="530" y="595" width="100" height="50" as="geometry" />
+          <mxGeometry x="530" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-JES8zZpxzI67cb9eJ_r-85" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;模型轻量化方法建立&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="610" y="595" width="100" height="50" as="geometry" />
+          <mxGeometry x="610" y="615" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
