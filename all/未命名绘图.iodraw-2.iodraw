@@ -147,7 +147,7 @@
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-43" target="WSwIzcsFpwpCBVFgFwlt-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WSwIzcsFpwpCBVFgFwlt-43" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;边缘检测系统&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WSwIzcsFpwpCBVFgFwlt-43" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;边缘检测系统&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="440" y="490" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSwIzcsFpwpCBVFgFwlt-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WSwIzcsFpwpCBVFgFwlt-50" target="WSwIzcsFpwpCBVFgFwlt-42">
