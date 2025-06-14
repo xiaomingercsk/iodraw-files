@@ -40,8 +40,8 @@
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-17" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;数据归纳&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="110" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-18" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;数据归纳&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="100" height="50" as="geometry" />
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-18" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;宋体&quot;&gt;数据归纳&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
