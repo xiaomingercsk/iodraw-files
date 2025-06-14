@@ -14,7 +14,17 @@
             <mxPoint x="380" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-1" value="设计方向" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-1" value="创新方向" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
