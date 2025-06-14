@@ -41,13 +41,13 @@
           <mxGeometry x="475" y="110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-18" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;框架搭建&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="310" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;创新点2：模块开发&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="100" height="50" as="geometry" />
+          <mxGeometry x="310" y="430" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-20" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;模块开发&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="570" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="490" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
