@@ -11,10 +11,10 @@
           <mxGeometry x="485" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-8" value="" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="260" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-9" value="数据扩充" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-9" value="模型设计" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="335" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
