@@ -24,15 +24,10 @@
           <mxGeometry x="440" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sK-JeNWhbX5yk5fxhXab-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;FB模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="720" y="420" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NqXew6-l4nuI-EALD6eN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sK-JeNWhbX5yk5fxhXab-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="335" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="650" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sK-JeNWhbX5yk5fxhXab-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;FC注意力&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="640" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="610" y="500" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sK-JeNWhbX5yk5fxhXab-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;特征蒸馏&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="410" y="430" width="90" height="30" as="geometry" />
