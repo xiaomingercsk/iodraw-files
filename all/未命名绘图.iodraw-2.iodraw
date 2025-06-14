@@ -43,7 +43,7 @@
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;2025.06-2025.10&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r_3GKMdBTZkxiH3zyK-4-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;2025.10-2025.11&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="r_3GKMdBTZkxiH3zyK-4-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;2025.10-2025.11&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="830" y="260" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;成果归纳&lt;/span&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
