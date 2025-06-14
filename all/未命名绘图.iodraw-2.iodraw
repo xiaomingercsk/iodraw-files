@@ -82,9 +82,6 @@
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="876.25" y="317.5" width="57.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="r_3GKMdBTZkxiH3zyK-4-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=20;notch=20;arrowHead=20;dx2=25;dy2=30;" vertex="1" parent="1">
-          <mxGeometry x="130" y="125" width="90" height="45" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
