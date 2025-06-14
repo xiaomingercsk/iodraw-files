@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="375" as="targetPoint" />
@@ -30,7 +25,7 @@
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-8" value="" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
