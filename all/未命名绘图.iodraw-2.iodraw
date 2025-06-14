@@ -16,7 +16,7 @@
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-9" value="模型设计" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="335" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-10" value="数据扩充" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-10" value="模型压缩" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="470" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
