@@ -10,7 +10,7 @@
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1" target="oDMeVyWhw_uMKW7FCfhC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oDMeVyWhw_uMKW7FCfhC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1" target="oDMeVyWhw_uMKW7FCfhC-10">
+        <mxCell id="oDMeVyWhw_uMKW7FCfhC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1" target="oDMeVyWhw_uMKW7FCfhC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="oDMeVyWhw_uMKW7FCfhC-1" target="oDMeVyWhw_uMKW7FCfhC-7">
@@ -77,7 +77,7 @@
           <mxGeometry x="360" y="555" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;体积压缩&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="590" y="555" width="100" height="50" as="geometry" />
+          <mxGeometry x="600" y="555" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oDMeVyWhw_uMKW7FCfhC-23" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;硬件系统&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="690" y="270" width="100" height="50" as="geometry" />
