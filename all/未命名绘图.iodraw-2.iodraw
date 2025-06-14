@@ -35,16 +35,16 @@
           <mxGeometry x="830" y="260" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;成果归纳&lt;/span&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="355" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;明确项目研究现状；收集实验所需数据集。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="360" width="170" height="50" as="geometry" />
+          <mxGeometry x="175" y="370" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;归纳分析当前研究难点，讨论确定项目探究方向，设计具体研发路径；收集实验所需数据集&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="360" width="170" height="50" as="geometry" />
+          <mxGeometry x="390" y="370" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;多模态绝缘子缺陷数据集构建完成；绝缘子缺陷检测模型训练完成；边缘检测系统开发完成。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="360" width="170" height="50" as="geometry" />
+          <mxGeometry x="610" y="370" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;总结研究项目的优缺点，提出新的研究方向&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="360" width="170" height="50" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="876.25" y="210" width="57.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="r_3GKMdBTZkxiH3zyK-4-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="57.5" height="37.5" as="geometry" />
+          <mxGeometry x="231.25" y="307.5" width="57.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
