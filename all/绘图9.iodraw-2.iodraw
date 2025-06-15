@@ -145,7 +145,7 @@
           <mxGeometry x="622.5" y="151.25" width="37.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能巡检系统硬件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="315" y="183.75" width="110" height="30" as="geometry" />
+          <mxGeometry x="310" y="291.25" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmLhMQQ0SF52eD6qPz0N-57" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;边缘智能检测软件部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="586.25" y="230" width="110" height="30" as="geometry" />
