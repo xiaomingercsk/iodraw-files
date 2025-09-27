@@ -331,8 +331,8 @@
         <mxCell id="Us4D8TxJXRmS7evM8c0I-265" value="Upsample" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="195" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-266" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="Us4D8TxJXRmS7evM8c0I-266" value="CGHalfConv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
