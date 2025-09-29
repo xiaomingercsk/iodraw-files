@@ -293,7 +293,7 @@
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-23" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="750" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-24" value="LBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-24" value="GEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="750" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-25" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -303,7 +303,7 @@
           <mxGeometry x="320" y="752.5" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-27" value="DC-Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="40" width="110" height="30" as="geometry" />
+          <mxGeometry x="1170" y="145" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us4D8TxJXRmS7evM8c0I-251">
           <mxGeometry relative="1" as="geometry">
