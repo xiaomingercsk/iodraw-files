@@ -315,6 +315,9 @@
             <mxPoint x="860" y="325" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-31" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="150" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
