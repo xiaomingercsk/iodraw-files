@@ -55,7 +55,7 @@
           <mxGeometry x="840" y="440" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-240" value="GCDC-C2f" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="375" width="120" height="30" as="geometry" />
+          <mxGeometry x="800" y="385" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Us4D8TxJXRmS7evM8c0I-244" target="Us4D8TxJXRmS7evM8c0I-289" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -314,6 +314,9 @@
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-27" value="DC-Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-28" value="LBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="340" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
