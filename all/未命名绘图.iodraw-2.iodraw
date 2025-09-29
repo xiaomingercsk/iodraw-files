@@ -29,7 +29,12 @@
           <mxGeometry x="600" y="295" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Us4D8TxJXRmS7evM8c0I-233" target="Us4D8TxJXRmS7evM8c0I-236" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="560" />
+              <mxPoint x="860" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-233" value="SPPF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="525" width="120" height="30" as="geometry" />
@@ -258,6 +263,9 @@
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-401" value="WHPC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="465" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-1" value="LBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="310" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
