@@ -12,22 +12,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us4D8TxJXRmS7evM8c0I-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="285" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us4D8TxJXRmS7evM8c0I-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="235" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Us4D8TxJXRmS7evM8c0I-20" target="Us4D8TxJXRmS7evM8c0I-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-20" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="255" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Us4D8TxJXRmS7evM8c0I-21" target="Us4D8TxJXRmS7evM8c0I-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
