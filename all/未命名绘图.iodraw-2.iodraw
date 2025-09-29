@@ -222,10 +222,10 @@
           <mxGeometry x="100" y="375" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-375" value="channal split" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="255" width="80" height="30" as="geometry" />
+          <mxGeometry x="240" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-376" value="WPL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="365" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
