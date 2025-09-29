@@ -205,11 +205,11 @@
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="Us4D8TxJXRmS7evM8c0I-375" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="220" as="targetPoint" />
+            <mxPoint x="270" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-375" value="channal split" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="255" width="80" height="30" as="geometry" />
+          <mxGeometry x="230" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-383" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Us4D8TxJXRmS7evM8c0I-376" target="Us4D8TxJXRmS7evM8c0I-381" edge="1">
           <mxGeometry relative="1" as="geometry" />
