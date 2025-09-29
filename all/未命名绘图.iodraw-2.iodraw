@@ -184,7 +184,10 @@
           <mxGeometry x="280" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-355" value="LBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="10" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4D8TxJXRmS7evM8c0I-356" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
