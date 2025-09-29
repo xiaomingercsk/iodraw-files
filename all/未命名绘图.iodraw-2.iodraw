@@ -337,8 +337,8 @@
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-34" value="CSAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-38" value="LCDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="850" width="120" height="30" as="geometry" />
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-38" value="DBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="820" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
