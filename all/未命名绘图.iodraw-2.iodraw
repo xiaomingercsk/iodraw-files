@@ -227,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-381" value="CAMM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="170" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Us4D8TxJXRmS7evM8c0I-382" target="Us4D8TxJXRmS7evM8c0I-385" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,6 +244,10 @@
         <mxCell id="Us4D8TxJXRmS7evM8c0I-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Us4D8TxJXRmS7evM8c0I-388" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="550" />
+              <mxPoint x="270" y="550" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-388" value="Channel Shortcut" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
