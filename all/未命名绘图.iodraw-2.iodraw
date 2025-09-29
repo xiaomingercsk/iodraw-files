@@ -299,16 +299,6 @@
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-27" value="DC-Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us4D8TxJXRmS7evM8c0I-251">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us4D8TxJXRmS7evM8c0I-265">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="325" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-31" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1380" y="160" width="40" height="30" as="geometry" />
         </mxCell>
@@ -342,7 +332,7 @@
           <mxGeometry x="320" y="820" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-46" value="HBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="340" width="80" height="30" as="geometry" />
+          <mxGeometry x="820" y="330" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
