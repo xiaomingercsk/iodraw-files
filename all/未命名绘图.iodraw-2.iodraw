@@ -241,6 +241,11 @@
         <mxCell id="Us4D8TxJXRmS7evM8c0I-385" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="250" y="570" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Us4D8TxJXRmS7evM8c0I-388">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269.8333333333335" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-388" value="Channel Shortcut" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="630" width="130" height="30" as="geometry" />
         </mxCell>
