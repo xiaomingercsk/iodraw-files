@@ -177,7 +177,7 @@
         <mxCell id="Us4D8TxJXRmS7evM8c0I-352" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-353" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Us4D8TxJXRmS7evM8c0I-353" value="BN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-354" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
