@@ -267,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-10" value="HCBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="225" width="80" height="30" as="geometry" />
+          <mxGeometry x="10" y="235" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-11" value="Half-Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="235" width="80" height="30" as="geometry" />
@@ -279,7 +279,10 @@
           <mxGeometry x="280" y="235" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-14" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="190" width="40" height="30" as="geometry" />
+          <mxGeometry x="80" y="235" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-15" value="HCBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
