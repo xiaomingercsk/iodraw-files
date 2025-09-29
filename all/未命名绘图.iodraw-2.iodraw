@@ -260,8 +260,8 @@
         <mxCell id="Us4D8TxJXRmS7evM8c0I-385" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="250" y="425" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Us4D8TxJXRmS7evM8c0I-388" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Channel Shortcut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="495" width="130" height="30" as="geometry" />
+        <mxCell id="Us4D8TxJXRmS7evM8c0I-388" value="Channel Shortcut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
