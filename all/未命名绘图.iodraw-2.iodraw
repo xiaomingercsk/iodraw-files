@@ -237,7 +237,10 @@
           <mxGeometry x="290" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-381" value="WPL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="170" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4D8TxJXRmS7evM8c0I-382" value="WPL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
