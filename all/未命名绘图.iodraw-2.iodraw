@@ -229,6 +229,11 @@
         <mxCell id="Us4D8TxJXRmS7evM8c0I-381" value="CAMM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="520" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Us4D8TxJXRmS7evM8c0I-382">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-382" value="CAMM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="525" width="80" height="30" as="geometry" />
         </mxCell>
@@ -239,7 +244,7 @@
           <mxGeometry x="250" y="550" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-388" value="Channel Shortcut" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="610" width="130" height="30" as="geometry" />
+          <mxGeometry x="205" y="630" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us4D8TxJXRmS7evM8c0I-402" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Us4D8TxJXRmS7evM8c0I-398" target="Us4D8TxJXRmS7evM8c0I-401" edge="1">
           <mxGeometry relative="1" as="geometry" />
