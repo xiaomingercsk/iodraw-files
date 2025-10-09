@@ -367,8 +367,8 @@
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-60" value="GCDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="555" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pNPYMRjlplLX9fD471yB-3" value="LSConv:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="640" width="550" height="150" as="geometry" />
+        <mxCell id="pNPYMRjlplLX9fD471yB-3" value="：LS卷积由两个步骤组成：大核感知（LKP）和小核聚合（SKA）。LKP通过大核静态卷积建模邻域关系，采用逐点卷积降低通道维度并扩大感受野。SKA则使用分组动态卷积自适应地整合周围特征，将生成的权重应用于小范围的特征聚合。结合了大感受野、空间注意力和通道注意力，能自适应地关注重要特征。该模块生成空间自适应的卷积核，能够更好地提取图像中的​​边缘和纹理细节​​（这正是浅层特征的核心）。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="640" width="650" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
