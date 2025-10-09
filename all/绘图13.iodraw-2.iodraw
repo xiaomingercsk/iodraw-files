@@ -261,7 +261,7 @@
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-19" value="B-SiLU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-22" value="LCDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-22" value="GCDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="750" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-23" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
