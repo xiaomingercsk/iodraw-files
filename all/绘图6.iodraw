@@ -58,8 +58,8 @@
         <mxCell id="auoCVgNd5HUqHQ2lYVvy-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;生成雪算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="258.75" y="1030" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="auoCVgNd5HUqHQ2lYVvy-15" value="薄雾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="406.25" y="773.75" width="25" height="57.5" as="geometry" />
+        <mxCell id="auoCVgNd5HUqHQ2lYVvy-15" value="大雾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="796.79" width="25" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
