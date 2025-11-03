@@ -573,6 +573,9 @@
         <mxCell id="u_Sb8kWJNIsax1IjItXR-85" value="WPL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="805" y="1440" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u_Sb8kWJNIsax1IjItXR-89" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;……&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1675" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
