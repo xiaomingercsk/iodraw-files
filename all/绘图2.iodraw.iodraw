@@ -208,6 +208,9 @@
         <mxCell id="tfNldQD6iAaOimdKcHH2-55" value="&lt;h3&gt;头部网络&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="525" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f-foJ5qUR_QAawKSR0Iw-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10.5px;&quot;&gt;WHFD-C2F&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="790" width="94.13" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
