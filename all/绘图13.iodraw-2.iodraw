@@ -478,8 +478,11 @@
         <mxCell id="u_Sb8kWJNIsax1IjItXR-57" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="285" y="1580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_Sb8kWJNIsax1IjItXR-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1830" width="60" height="30" as="geometry" />
+        <mxCell id="u_Sb8kWJNIsax1IjItXR-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1870" as="sourcePoint" />
+            <mxPoint x="570" y="1820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
