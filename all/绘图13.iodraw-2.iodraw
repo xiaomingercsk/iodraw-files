@@ -550,13 +550,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-79" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1520" width="80" height="30" as="geometry" />
+          <mxGeometry x="805" y="1500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-80" value="Split" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1580" width="80" height="30" as="geometry" />
+          <mxGeometry x="805" y="1560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-81" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1640" width="110" height="30" as="geometry" />
+          <mxGeometry x="790" y="1610" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-82" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="790" y="1810" width="110" height="30" as="geometry" />
@@ -571,7 +571,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-85" value="WPL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1460" width="80" height="30" as="geometry" />
+          <mxGeometry x="805" y="1440" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
