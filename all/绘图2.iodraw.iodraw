@@ -197,9 +197,6 @@
         <mxCell id="tfNldQD6iAaOimdKcHH2-51" value="&lt;h3&gt;Backbone&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90.87" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tfNldQD6iAaOimdKcHH2-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="350" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
