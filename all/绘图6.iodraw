@@ -76,7 +76,7 @@
         <mxCell id="auoCVgNd5HUqHQ2lYVvy-20" value="中雪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="400" y="1010" width="25" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="auoCVgNd5HUqHQ2lYVvy-21" value="薄雾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="auoCVgNd5HUqHQ2lYVvy-21" value="大雪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="400" y="1050" width="25" height="57.5" as="geometry" />
         </mxCell>
       </root>
