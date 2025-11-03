@@ -252,13 +252,13 @@
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-16" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="290" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-17" value="FDConv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-17" value="FDConv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="120" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-18" value="BN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-18" value="BN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uzlFrmiKPXAUpSUdEtt-19" value="B-SiLU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5uzlFrmiKPXAUpSUdEtt-19" value="B-SiLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uzlFrmiKPXAUpSUdEtt-22" value="GDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
