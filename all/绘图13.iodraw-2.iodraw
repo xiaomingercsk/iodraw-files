@@ -371,7 +371,7 @@
         <mxCell id="pNPYMRjlplLX9fD471yB-7" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_Sb8kWJNIsax1IjItXR-19" value="HPC-Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u_Sb8kWJNIsax1IjItXR-19" value="HPC-Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="720" y="1210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_Sb8kWJNIsax1IjItXR-23" target="u_Sb8kWJNIsax1IjItXR-25">
@@ -426,7 +426,7 @@
         <mxCell id="u_Sb8kWJNIsax1IjItXR-35" value="Channel Shuffle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="905" y="1340" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_Sb8kWJNIsax1IjItXR-36" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u_Sb8kWJNIsax1IjItXR-36" value="&lt;b&gt;=&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="1210" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-37" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
