@@ -503,7 +503,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-57" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1590" width="110" height="30" as="geometry" />
+          <mxGeometry x="285" y="1580" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="u_Sb8kWJNIsax1IjItXR-60" target="u_Sb8kWJNIsax1IjItXR-61">
           <mxGeometry relative="1" as="geometry" />
@@ -547,7 +547,7 @@
           <mxGeometry x="610" y="1665" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_Sb8kWJNIsax1IjItXR-79" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1470" width="80" height="30" as="geometry" />
+          <mxGeometry x="700" y="1460" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
