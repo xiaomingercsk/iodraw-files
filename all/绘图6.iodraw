@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="auoCVgNd5HUqHQ2lYVvy-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;生成雨算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="263.75" y="940" width="100" height="20" as="geometry" />
+          <mxGeometry x="235" y="938.24" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="auoCVgNd5HUqHQ2lYVvy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="auoCVgNd5HUqHQ2lYVvy-3" target="auoCVgNd5HUqHQ2lYVvy-19">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="auoCVgNd5HUqHQ2lYVvy-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;生成雪算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="258.75" y="1067.5" width="110" height="20" as="geometry" />
+          <mxGeometry x="230" y="1061.25" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="auoCVgNd5HUqHQ2lYVvy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="auoCVgNd5HUqHQ2lYVvy-15" target="ZcNNaxqBHc298nA4RAMo-5">
           <mxGeometry relative="1" as="geometry" />
