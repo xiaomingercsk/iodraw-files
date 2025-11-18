@@ -300,6 +300,12 @@
         <mxCell id="ELHkMIvzraV6EhUWjkiU-128" value="（20,20,768）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1460" y="2420" width="70" height="29.99" as="geometry" />
         </mxCell>
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-129" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;strokeColor=#FFD966;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1680" y="2132.21" width="271.48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-130" value="&lt;h3&gt;&lt;font color=&quot;#ffd966&quot;&gt;&amp;nbsp; Input&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1680" y="2133.14" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
