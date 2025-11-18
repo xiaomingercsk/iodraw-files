@@ -187,8 +187,8 @@
         <mxCell id="ELHkMIvzraV6EhUWjkiU-69" value="&lt;h3&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&amp;nbsp;Backbone&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="879.59" y="1870" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ELHkMIvzraV6EhUWjkiU-70" value="&lt;h3&gt;主干网络&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="1800" width="60" height="30" as="geometry" />
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-71" value="&lt;h3&gt;主干网络&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="1900" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
