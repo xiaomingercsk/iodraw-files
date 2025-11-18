@@ -231,6 +231,12 @@
         <mxCell id="ELHkMIvzraV6EhUWjkiU-98" value="（20,20,768）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="2408.9" width="70" height="29.99" as="geometry" />
         </mxCell>
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-99" value="（20,20,768）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1095" y="2360" width="70" height="29.99" as="geometry" />
+        </mxCell>
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-100" value="（40,40,768）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1095" y="2282.48" width="70" height="29.99" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
