@@ -67,13 +67,12 @@
         <mxCell id="ELHkMIvzraV6EhUWjkiU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#EA6B66;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ELHkMIvzraV6EhUWjkiU-26" target="ELHkMIvzraV6EhUWjkiU-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELHkMIvzraV6EhUWjkiU-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ELHkMIvzraV6EhUWjkiU-26" target="ELHkMIvzraV6EhUWjkiU-7">
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ELHkMIvzraV6EhUWjkiU-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1167" y="2430" as="targetPoint" />
+            <mxPoint x="1167" y="2431" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1250" y="2328" />
               <mxPoint x="1250" y="2430" />
-              <mxPoint x="1242" y="2430" />
             </Array>
           </mxGeometry>
         </mxCell>
