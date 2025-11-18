@@ -4,10 +4,10 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="tfNldQD6iAaOimdKcHH2-49" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tfNldQD6iAaOimdKcHH2-49" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="224.12" y="334.28" width="661.81" height="144.13" as="geometry" />
         </mxCell>
-        <mxCell id="tfNldQD6iAaOimdKcHH2-48" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tfNldQD6iAaOimdKcHH2-48" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10.89" y="263.4" width="661.81" height="285.88" as="geometry" />
         </mxCell>
         <mxCell id="tfNldQD6iAaOimdKcHH2-46" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
