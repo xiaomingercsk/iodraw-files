@@ -280,7 +280,10 @@
           <mxGeometry x="1064.83" y="2270.01" width="70" height="29.99" as="geometry" />
         </mxCell>
         <mxCell id="ELHkMIvzraV6EhUWjkiU-121" value="（80,80,192）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="2020" width="70" height="29.99" as="geometry" />
+          <mxGeometry x="1064.8300000000002" y="2010" width="70" height="29.99" as="geometry" />
+        </mxCell>
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-122" value="（40,40,192）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="2130" width="70" height="29.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
