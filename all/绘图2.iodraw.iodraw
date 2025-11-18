@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ELHkMIvzraV6EhUWjkiU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;dashed=1;strokeWidth=2;strokeColor=#67AB9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1213.74" y="2097.62" width="624.27" height="144.13" as="geometry" />
+          <mxGeometry x="1216.87" y="2100.75" width="618.01" height="144.13" as="geometry" />
         </mxCell>
         <mxCell id="ELHkMIvzraV6EhUWjkiU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;dashed=1;strokeWidth=2;strokeColor=#EA6B66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980.42" y="2077.55" width="522.65" height="285.88" as="geometry" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="ELHkMIvzraV6EhUWjkiU-69" value="&lt;h3&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&amp;nbsp;Backbone&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="879.59" y="1870" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ELHkMIvzraV6EhUWjkiU-70" value="&lt;h3&gt;主干网络&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="1800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
