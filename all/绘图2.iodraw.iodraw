@@ -160,9 +160,6 @@
         <mxCell id="ELHkMIvzraV6EhUWjkiU-57" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;Times New Roman&quot;&gt;C2F&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1278.85" y="2372.465" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ELHkMIvzraV6EhUWjkiU-58" value="&lt;h3&gt;主干网络&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="905.84" y="1831.215" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ELHkMIvzraV6EhUWjkiU-59" value="&lt;h3&gt;颈部网络&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1126.77" y="1831.215" width="60" height="30" as="geometry" />
         </mxCell>
@@ -194,7 +191,7 @@
           <mxGeometry x="1136.5900000000001" y="2177.715" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ELHkMIvzraV6EhUWjkiU-69" value="&lt;h3&gt;Backbone&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="909.59" y="2500" width="60" height="30" as="geometry" />
+          <mxGeometry x="890.02" y="1831.2200000000003" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
