@@ -38,24 +38,9 @@
             <mxPoint x="635" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D5pUwnAs2nFLuMUCf_DL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="D5pUwnAs2nFLuMUCf_DL-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="370" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D5pUwnAs2nFLuMUCf_DL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="D5pUwnAs2nFLuMUCf_DL-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="385" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D5pUwnAs2nFLuMUCf_DL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="D5pUwnAs2nFLuMUCf_DL-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="505" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D5pUwnAs2nFLuMUCf_DL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="D5pUwnAs2nFLuMUCf_DL-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="565" as="sourcePoint" />
+        <mxCell id="D5pUwnAs2nFLuMUCf_DL-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D5pUwnAs2nFLuMUCf_DL-25">
+          <mxGeometry x="0.0065" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-7" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
