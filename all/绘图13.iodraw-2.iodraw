@@ -667,7 +667,7 @@
         <mxCell id="5X3LKX0otbz1O_KTlOmh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5X3LKX0otbz1O_KTlOmh-69" target="5X3LKX0otbz1O_KTlOmh-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5X3LKX0otbz1O_KTlOmh-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5X3LKX0otbz1O_KTlOmh-69" target="5X3LKX0otbz1O_KTlOmh-78">
+        <mxCell id="5X3LKX0otbz1O_KTlOmh-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5X3LKX0otbz1O_KTlOmh-69" target="5X3LKX0otbz1O_KTlOmh-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-69" value="HFD-Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
