@@ -850,7 +850,7 @@
           <mxGeometry x="815" y="2312" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="925" y="2194" width="110" height="170" as="geometry" />
+          <mxGeometry x="925" y="2194" width="110" height="216" as="geometry" />
         </mxCell>
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;n&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2264" width="60" height="30" as="geometry" />
