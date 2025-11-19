@@ -771,7 +771,7 @@
           <mxGeometry x="185" y="2100" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-117" value="&lt;b&gt;h×w×c_in&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1930" width="60" height="30" as="geometry" />
+          <mxGeometry x="780" y="2070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-118" value="&lt;b&gt;h×w×c_in&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="2010" width="60" height="30" as="geometry" />
