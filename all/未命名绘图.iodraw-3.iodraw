@@ -20,7 +20,7 @@
           <mxGeometry x="1020" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-8" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="350" width="90" height="30" as="geometry" />
+          <mxGeometry x="770" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-9" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="490" width="90" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="590" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-38" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="430" width="90" height="30" as="geometry" />
+          <mxGeometry x="770" y="430" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
