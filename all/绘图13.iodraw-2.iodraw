@@ -706,17 +706,8 @@
         <mxCell id="5X3LKX0otbz1O_KTlOmh-32" value="B-SiLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="420" y="2375" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5X3LKX0otbz1O_KTlOmh-35" value="C2F" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2360" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5X3LKX0otbz1O_KTlOmh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="2110" as="targetPoint" />
-            <mxPoint x="830" y="2139.9999999999995" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="2100" width="520" height="630" as="geometry" />
+          <mxGeometry x="560" y="2040" width="520" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
