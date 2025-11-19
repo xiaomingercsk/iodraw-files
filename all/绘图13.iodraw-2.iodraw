@@ -847,13 +847,8 @@
         <mxCell id="5X3LKX0otbz1O_KTlOmh-96" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1360" y="2380" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5X3LKX0otbz1O_KTlOmh-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="5X3LKX0otbz1O_KTlOmh-98">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1379.8333333333335" y="2490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-98" value="Channel Shuffle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="2460" width="130" height="30" as="geometry" />
+          <mxGeometry x="1315" y="2470" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-99" value="&lt;b&gt;=&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="2310" width="40" height="30" as="geometry" />
