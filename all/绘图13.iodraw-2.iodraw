@@ -817,10 +817,10 @@
           <mxGeometry x="220" y="2220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-9" value="BN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="305" y="2300" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="2220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-10" value="B-SiLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="385" y="2300" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="2220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -829,7 +829,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-23" value="HBB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2390" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="2345" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-24" value="Half-Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="225" y="2390" width="80" height="30" as="geometry" />
