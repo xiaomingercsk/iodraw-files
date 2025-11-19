@@ -877,6 +877,9 @@
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-30" value="&lt;b&gt;=&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="2264" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dxJbuh9pgEDoDcYOaGWW-46" value="&lt;b&gt;h×w×c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2020" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
