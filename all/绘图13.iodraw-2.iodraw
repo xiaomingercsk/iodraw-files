@@ -771,19 +771,19 @@
           <mxGeometry x="185" y="2100" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-117" value="&lt;b&gt;h×w×c_in&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1920" width="60" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-118" value="&lt;b&gt;h×w×c_in&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="95" y="1920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-119" value="&lt;b&gt;h×w×c_out&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1950" width="60" height="30" as="geometry" />
+          <mxGeometry x="1035" y="1910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-120" value="&lt;b&gt;h×w×c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1910" width="80" height="30" as="geometry" />
+          <mxGeometry x="1000" y="1840" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-122" value="&lt;b&gt;h×w×c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1890" width="80" height="30" as="geometry" />
+          <mxGeometry x="1035" y="1770" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
