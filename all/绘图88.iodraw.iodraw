@@ -274,7 +274,7 @@
         <mxCell id="iphAI18TI33k4eAArWeJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iphAI18TI33k4eAArWeJ-27" target="iphAI18TI33k4eAArWeJ-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iphAI18TI33k4eAArWeJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iphAI18TI33k4eAArWeJ-27" target="iphAI18TI33k4eAArWeJ-40">
+        <mxCell id="iphAI18TI33k4eAArWeJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iphAI18TI33k4eAArWeJ-27" target="iphAI18TI33k4eAArWeJ-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iphAI18TI33k4eAArWeJ-27" value="2D DWT(X)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF3333;dashed=1;strokeWidth=2;" vertex="1" parent="1">
@@ -332,7 +332,7 @@
             <mxPoint x="1350" y="934.8333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iphAI18TI33k4eAArWeJ-56" value="Att" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iphAI18TI33k4eAArWeJ-56" value="Att" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF3333;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="920" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iphAI18TI33k4eAArWeJ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iphAI18TI33k4eAArWeJ-58" target="iphAI18TI33k4eAArWeJ-64">
