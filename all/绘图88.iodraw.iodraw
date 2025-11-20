@@ -23,7 +23,7 @@
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-1" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFUMHzidI1WJhiTqAEHH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D5pUwnAs2nFLuMUCf_DL-2" target="sFUMHzidI1WJhiTqAEHH-60" edge="1">
+        <mxCell id="sFUMHzidI1WJhiTqAEHH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="D5pUwnAs2nFLuMUCf_DL-2" target="sFUMHzidI1WJhiTqAEHH-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-2" value="Conv(W,X)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -255,7 +255,7 @@
           <mxGeometry x="1260" y="335" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFUMHzidI1WJhiTqAEHH-95" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="1580" y="235" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
