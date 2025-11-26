@@ -355,8 +355,8 @@
         <mxCell id="LxR79RiUc6seBen1JPSk-125" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;direction=west;" vertex="1" parent="1">
           <mxGeometry x="900" y="921" width="140" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="LxR79RiUc6seBen1JPSk-126" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1260" width="140" height="109" as="geometry" />
+        <mxCell id="LxR79RiUc6seBen1JPSk-126" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1040" width="140" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
