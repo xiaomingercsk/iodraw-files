@@ -516,7 +516,7 @@
           <mxGeometry x="390" y="2960" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2730" width="40" height="150" as="geometry" />
+          <mxGeometry x="500" y="2530" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
