@@ -705,7 +705,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-149" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;whole&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="2800" width="80" height="50" as="geometry" />
+          <mxGeometry x="1620" y="2805" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
