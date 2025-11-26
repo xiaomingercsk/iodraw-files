@@ -463,10 +463,10 @@
           <mxGeometry x="1260" y="1960" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-195" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1910" width="190" height="120" as="geometry" />
+          <mxGeometry x="1760" y="1980" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-194" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1855" width="190" height="120" as="geometry" />
+          <mxGeometry x="1730" y="1855" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
