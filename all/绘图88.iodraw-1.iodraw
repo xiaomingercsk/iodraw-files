@@ -723,7 +723,7 @@
           <mxGeometry x="2055" y="3052.5" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-166" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;δ&lt;/span&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;k&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="3260" width="130" height="80" as="geometry" />
+          <mxGeometry x="2070" y="3260" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
