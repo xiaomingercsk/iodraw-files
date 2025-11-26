@@ -625,7 +625,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-105" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2415" y="3080" width="110" height="90" as="geometry" />
+          <mxGeometry x="2415" y="3087.5" width="95" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PlnuAZOqxhNGjWWoRBJU-109" target="PlnuAZOqxhNGjWWoRBJU-114">
           <mxGeometry relative="1" as="geometry" />
@@ -722,7 +722,7 @@
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-164" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2055" y="3052.5" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PlnuAZOqxhNGjWWoRBJU-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PlnuAZOqxhNGjWWoRBJU-166" target="PlnuAZOqxhNGjWWoRBJU-105">
+        <mxCell id="PlnuAZOqxhNGjWWoRBJU-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;" edge="1" parent="1" source="PlnuAZOqxhNGjWWoRBJU-166" target="PlnuAZOqxhNGjWWoRBJU-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-166" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;δ&lt;/span&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;k&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
