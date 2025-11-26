@@ -599,6 +599,9 @@
             <mxPoint x="1870" y="2670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PlnuAZOqxhNGjWWoRBJU-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=160;exitDy=325;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PlnuAZOqxhNGjWWoRBJU-81" target="PlnuAZOqxhNGjWWoRBJU-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-81" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2310" y="2505" width="300" height="325" as="geometry" />
         </mxCell>
@@ -656,7 +659,7 @@
           <mxGeometry x="2415" y="3080" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-109" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Conv2d&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="3100" width="270" height="120" as="geometry" />
+          <mxGeometry x="1865" y="3560" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
