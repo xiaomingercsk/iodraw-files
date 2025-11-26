@@ -428,7 +428,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-177" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AvgPool&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="955" y="1677.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="780" y="1580" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
