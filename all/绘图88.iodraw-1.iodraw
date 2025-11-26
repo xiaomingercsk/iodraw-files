@@ -519,7 +519,13 @@
           <mxGeometry x="510" y="2520" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="590" y="2960" width="40" height="120" as="geometry" />
+          <mxGeometry x="530" y="2880" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnuAZOqxhNGjWWoRBJU-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="2810" as="sourcePoint" />
+            <mxPoint x="1130" y="2760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
