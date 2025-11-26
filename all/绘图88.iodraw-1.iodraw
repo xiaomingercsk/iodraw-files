@@ -637,7 +637,7 @@
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-99" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;⊕&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="2630" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="PlnuAZOqxhNGjWWoRBJU-100" value="⊗" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="PlnuAZOqxhNGjWWoRBJU-100" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2110" y="3110" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
