@@ -570,6 +570,9 @@
             <mxPoint x="854" y="2672.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PlnuAZOqxhNGjWWoRBJU-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PlnuAZOqxhNGjWWoRBJU-70" target="PlnuAZOqxhNGjWWoRBJU-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-70" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1420" y="2420" width="200" height="222.5" as="geometry" />
         </mxCell>
@@ -580,7 +583,7 @@
           <mxGeometry x="1420" y="2745" width="200" height="222.5" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-76" value="&lt;span style=&quot;font-size: 125px;&quot;&gt;×&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="2642.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="1790" y="2630" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
