@@ -559,7 +559,7 @@
           <mxGeometry x="770" y="2782.5" width="200" height="195" as="geometry" />
         </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-61" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 70px; background-color: initial;&quot;&gt;⊕&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=right;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="2680" width="80" height="70" as="geometry" />
+          <mxGeometry x="1130" y="2710" width="135" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
