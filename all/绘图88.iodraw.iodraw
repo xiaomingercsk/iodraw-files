@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D5pUwnAs2nFLuMUCf_DL-2" value="Conv(W,X)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="50" width="90" height="35" as="geometry" />
+          <mxGeometry x="1380" y="50" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="sFUMHzidI1WJhiTqAEHH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="sFUMHzidI1WJhiTqAEHH-11" target="sFUMHzidI1WJhiTqAEHH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
