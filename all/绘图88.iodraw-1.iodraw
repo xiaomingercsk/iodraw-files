@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="aGUYM6wSGpwM97vJZPJk">
-    <mxGraphModel dx="988" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,10 +306,10 @@
         <mxCell id="LxR79RiUc6seBen1JPSk-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="870" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LxR79RiUc6seBen1JPSk-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;gradientColor=default;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LxR79RiUc6seBen1JPSk-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=bottom;size=0.5;gradientColor=default;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="920" width="310" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LxR79RiUc6seBen1JPSk-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;gradientColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LxR79RiUc6seBen1JPSk-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;gradientColor=default;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="1040" width="310" height="110" as="geometry" />
         </mxCell>
       </root>
