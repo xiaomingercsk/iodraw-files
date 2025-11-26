@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LxR79RiUc6seBen1JPSk-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1530" width="1580" height="300" as="geometry" />
+          <mxGeometry x="600" y="1530" width="1580" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1830" width="1580" height="300" as="geometry" />
+          <mxGeometry x="600" y="1830" width="1580" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-131" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=8 8;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="1240" height="480" as="geometry" />
