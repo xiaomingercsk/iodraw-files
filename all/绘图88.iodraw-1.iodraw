@@ -480,7 +480,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-201" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="1940" width="40" height="150" as="geometry" />
+          <mxGeometry x="2000" y="1885" width="40" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="LxR79RiUc6seBen1JPSk-202" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;J&lt;/font&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;global&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="2200" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
