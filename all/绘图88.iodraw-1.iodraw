@@ -422,6 +422,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LxR79RiUc6seBen1JPSk-180" value="Conv1D+Sigmoid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="LxR79RiUc6seBen1JPSk-179">
+          <mxGeometry x="0.4426" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
