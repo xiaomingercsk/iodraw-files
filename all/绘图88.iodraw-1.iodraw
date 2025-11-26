@@ -320,7 +320,7 @@
             <mxPoint x="900" y="975.3333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LxR79RiUc6seBen1JPSk-122" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="LxR79RiUc6seBen1JPSk-122" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1460" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LxR79RiUc6seBen1JPSk-111" value="Identity" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
