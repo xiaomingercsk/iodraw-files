@@ -291,6 +291,9 @@
         <mxCell id="LxR79RiUc6seBen1JPSk-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="280" y="870" width="260" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="LxR79RiUc6seBen1JPSk-10" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1090" width="260" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
