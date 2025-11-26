@@ -306,10 +306,10 @@
         <mxCell id="LxR79RiUc6seBen1JPSk-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="870" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LxR79RiUc6seBen1JPSk-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=bottom;size=0.5;gradientColor=default;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LxR79RiUc6seBen1JPSk-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;gradientColor=default;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="920" width="310" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LxR79RiUc6seBen1JPSk-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;gradientColor=default;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LxR79RiUc6seBen1JPSk-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;gradientColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="1040" width="310" height="110" as="geometry" />
         </mxCell>
       </root>
