@@ -277,7 +277,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDACC1HTmSNHK4IV8Lse-1" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="980" y="910" width="100" height="100" as="geometry" />
+          <mxGeometry x="620" y="910" width="460" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
