@@ -599,11 +599,6 @@
             <mxPoint x="1870" y="2670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlnuAZOqxhNGjWWoRBJU-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=300;exitDy=172.5;exitPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PlnuAZOqxhNGjWWoRBJU-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2810" y="2840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-81" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2310" y="2505" width="300" height="325" as="geometry" />
         </mxCell>
