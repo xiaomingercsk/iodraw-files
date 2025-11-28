@@ -891,7 +891,7 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-66" target="IaNnQEe_bNqZZTvLWNCX-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IaNnQEe_bNqZZTvLWNCX-66" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Y Avg Pool&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-66" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Y Max Pool&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1130" y="4850" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-68" target="IaNnQEe_bNqZZTvLWNCX-70">
