@@ -993,6 +993,9 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-93" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Sigmoid&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="4300" y="4890" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-105" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4660" y="4780" width="110" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
