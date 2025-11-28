@@ -1038,7 +1038,7 @@
           <mxGeometry x="4220" y="5174.98" width="100" height="60.01" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-122" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Matrix Multiplication&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4410" y="5157.48" width="515" height="95" as="geometry" />
+          <mxGeometry x="4277.5" y="5157.48" width="515" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
