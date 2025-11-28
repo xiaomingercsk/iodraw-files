@@ -948,8 +948,8 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-83" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;C&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3220" y="4740.02" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IaNnQEe_bNqZZTvLWNCX-87" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Residual&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="3920" y="4800" width="220" height="60" as="geometry" />
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-87" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Conv2d&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3470" y="4747.5" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
