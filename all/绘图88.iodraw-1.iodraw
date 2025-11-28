@@ -743,8 +743,8 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="2870" y="1838.75" width="400" height="108.75" as="geometry" />
         </mxCell>
-        <mxCell id="IaNnQEe_bNqZZTvLWNCX-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3420" y="2360" width="290" height="240" as="geometry" />
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-3" value="&lt;span style=&quot;font-size: 44px;&quot;&gt;Input:XH×W×&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="2270" width="290" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
