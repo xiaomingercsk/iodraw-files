@@ -740,7 +740,7 @@
         <mxCell id="PlnuAZOqxhNGjWWoRBJU-172" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;X&#39;&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;W×H×C&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="4150" y="3690" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IaNnQEe_bNqZZTvLWNCX-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2870" y="1838.75" width="400" height="108.75" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -760,6 +760,9 @@
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="3630" y="1480" width="280" height="288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=280;exitDy=154.375;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-14" target="IaNnQEe_bNqZZTvLWNCX-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-14" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="3630" y="1920" width="280" height="288.75" as="geometry" />
