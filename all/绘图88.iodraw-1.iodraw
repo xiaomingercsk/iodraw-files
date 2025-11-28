@@ -933,6 +933,9 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-80" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Residual&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2810" y="4750.02" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-81" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Residual&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="4560" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
