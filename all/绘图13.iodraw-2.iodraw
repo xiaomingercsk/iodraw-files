@@ -1021,10 +1021,10 @@
           <mxGeometry x="2390" y="1080" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--76" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="650" width="70" height="80" as="geometry" />
+          <mxGeometry x="2580" y="640" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--77" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="880" width="70" height="30" as="geometry" />
+          <mxGeometry x="2590" y="860" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--78" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="1060" width="70" height="30" as="geometry" />
