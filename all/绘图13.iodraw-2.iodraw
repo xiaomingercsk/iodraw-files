@@ -1157,10 +1157,10 @@
           <mxGeometry x="2180" y="900" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--152" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;(40,40,1152)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="870" width="100" height="30" as="geometry" />
+          <mxGeometry x="2200" y="860.52" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--153" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;(40,40,384)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="782.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="2210" y="790" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
