@@ -901,11 +901,11 @@
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-50" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;h×w×c_out/2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="865" y="2352" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dxJbuh9pgEDoDcYOaGWW-51" value="&lt;b&gt;h×w×c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="2430" width="80" height="30" as="geometry" />
+        <mxCell id="dxJbuh9pgEDoDcYOaGWW-51" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;h×w×c_out/2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="865" y="2430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dxJbuh9pgEDoDcYOaGWW-52" value="&lt;b&gt;h×w×(n+2)c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="2490" width="120" height="30" as="geometry" />
+        <mxCell id="dxJbuh9pgEDoDcYOaGWW-52" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;h×w×(n+2)c_out/2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="865" y="2500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-54" value="&lt;b&gt;h×w×c_out&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="2580" width="60" height="30" as="geometry" />
