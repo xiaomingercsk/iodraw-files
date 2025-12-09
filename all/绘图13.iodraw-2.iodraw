@@ -823,11 +823,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fo_O0BXCNgmSEzw2CI4b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dxJbuh9pgEDoDcYOaGWW-13" target="fo_O0BXCNgmSEzw2CI4b-8">
+        <mxCell id="fo_O0BXCNgmSEzw2CI4b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="dxJbuh9pgEDoDcYOaGWW-13" target="fo_O0BXCNgmSEzw2CI4b-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="2335" />
-              <mxPoint x="690" y="2335" />
+              <mxPoint x="850" y="2230" />
+              <mxPoint x="690" y="2230" />
               <mxPoint x="690" y="2475" />
             </Array>
           </mxGeometry>
@@ -895,7 +895,7 @@
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-48" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;h×w×c_out/2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="2210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dxJbuh9pgEDoDcYOaGWW-49" value="&lt;b&gt;h×w×c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dxJbuh9pgEDoDcYOaGWW-49" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;h×w×c_out/2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="2282" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dxJbuh9pgEDoDcYOaGWW-50" value="&lt;b&gt;h×w×c_out/2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
