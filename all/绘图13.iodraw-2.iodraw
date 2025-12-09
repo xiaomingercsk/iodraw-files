@@ -664,7 +664,7 @@
         <mxCell id="5X3LKX0otbz1O_KTlOmh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#A50040;dashPattern=8 8;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="1990" width="557.5" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="5X3LKX0otbz1O_KTlOmh-82" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;HFD-Bottleneck&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="5X3LKX0otbz1O_KTlOmh-82" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;HFD-Bottleneck&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1150" y="2307" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="5X3LKX0otbz1O_KTlOmh-86" target="5X3LKX0otbz1O_KTlOmh-88" edge="1">
@@ -678,8 +678,8 @@
             <mxPoint x="1419.9230769230767" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5X3LKX0otbz1O_KTlOmh-86" value="channal split" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="2060" width="80" height="30" as="geometry" />
+        <mxCell id="5X3LKX0otbz1O_KTlOmh-86" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;split&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="2060" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="5X3LKX0otbz1O_KTlOmh-88" target="5X3LKX0otbz1O_KTlOmh-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
