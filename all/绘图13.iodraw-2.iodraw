@@ -972,12 +972,6 @@
         <mxCell id="Vz7uP8ztTQCqemYsMt0--37" value="WHPC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2015" y="1015" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vz7uP8ztTQCqemYsMt0--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2690" y="1060.3529411764707" as="targetPoint" />
-            <mxPoint x="2630" y="1060" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--53" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="640" width="70" height="30" as="geometry" />
         </mxCell>
@@ -1028,6 +1022,12 @@
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--76" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz7uP8ztTQCqemYsMt0--77" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="880" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz7uP8ztTQCqemYsMt0--78" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1060" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
