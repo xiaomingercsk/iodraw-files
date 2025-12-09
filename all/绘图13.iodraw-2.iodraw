@@ -1047,6 +1047,9 @@
         <mxCell id="Vz7uP8ztTQCqemYsMt0--90" value="C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2390" y="670" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vz7uP8ztTQCqemYsMt0--105" value="WBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="770" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
