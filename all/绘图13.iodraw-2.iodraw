@@ -982,7 +982,7 @@
           <mxGeometry x="2015" y="1015" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--42" value="GDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="1205" width="120" height="30" as="geometry" />
+          <mxGeometry x="1960" y="1390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--44" value="WBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2490" y="730" width="80" height="30" as="geometry" />
@@ -1022,7 +1022,7 @@
           <mxGeometry x="1910" y="1230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--55" value="C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1150" width="120" height="30" as="geometry" />
+          <mxGeometry x="2310" y="1400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--56" value="C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2470" y="650" width="70" height="30" as="geometry" />
@@ -1035,6 +1035,9 @@
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--59" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz7uP8ztTQCqemYsMt0--60" value="Upsample" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1060" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
