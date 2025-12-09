@@ -923,7 +923,7 @@
           <mxGeometry x="2015" y="830" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--10" value="SPPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="1080" width="70" height="30" as="geometry" />
+          <mxGeometry x="2015" y="1080" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--13" value="Upsample" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="1015" width="120" height="30" as="geometry" />
@@ -1016,7 +1016,7 @@
           <mxGeometry x="2360" y="1120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--53" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="650" width="120" height="30" as="geometry" />
+          <mxGeometry x="2230" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--54" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="920" width="120" height="30" as="geometry" />
