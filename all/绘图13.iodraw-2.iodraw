@@ -982,7 +982,7 @@
           <mxGeometry x="1990" y="1015" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--42" value="GDC-C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="2130" y="1205" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--44" value="WBB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2530" y="710" width="80" height="30" as="geometry" />
@@ -1023,6 +1023,9 @@
         </mxCell>
         <mxCell id="Vz7uP8ztTQCqemYsMt0--55" value="C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="845" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz7uP8ztTQCqemYsMt0--56" value="C2F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="650" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
