@@ -1991,7 +1991,7 @@
           <mxGeometry x="2000" y="-612.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-22" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Att&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="-615" width="40" height="30" as="geometry" />
+          <mxGeometry x="1810" y="-617.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
