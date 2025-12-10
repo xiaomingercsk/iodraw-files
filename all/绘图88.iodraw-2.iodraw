@@ -1040,11 +1040,8 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-122" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Matrix Multiplication&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4277.5" y="5157.48" width="515" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#432D57;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="260" width="40" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="690" width="60" height="50" as="geometry" />
+          <mxGeometry x="1830" y="510" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
