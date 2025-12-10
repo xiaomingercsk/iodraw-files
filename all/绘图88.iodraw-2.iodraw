@@ -1040,11 +1040,8 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-122" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Matrix Multiplication&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4277.5" y="5157.48" width="515" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="190" width="210" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="635" width="130" height="125" as="geometry" />
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;rotation=5;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="635" width="30" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
