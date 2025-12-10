@@ -1900,6 +1900,9 @@
         <mxCell id="-NhAf-HUN7_ymYycieDa-13" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;W×H×C&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="-760" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-NhAf-HUN7_ymYycieDa-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-450" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
