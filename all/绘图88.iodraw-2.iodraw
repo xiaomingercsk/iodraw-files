@@ -1457,13 +1457,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-183" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-183" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2470" y="694.5799999999999" as="sourcePoint" />
             <mxPoint x="2510" y="694.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-184" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-184" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2465" y="802.58" as="sourcePoint" />
             <mxPoint x="2505" y="802.58" as="targetPoint" />
