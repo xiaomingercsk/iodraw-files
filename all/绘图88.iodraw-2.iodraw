@@ -1900,15 +1900,13 @@
         <mxCell id="-NhAf-HUN7_ymYycieDa-13" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;W×H×C&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="-760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-NhAf-HUN7_ymYycieDa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NhAf-HUN7_ymYycieDa-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="-615.4285714285706" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-NhAf-HUN7_ymYycieDa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NhAf-HUN7_ymYycieDa-14" target="-NhAf-HUN7_ymYycieDa-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NhAf-HUN7_ymYycieDa-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="-630" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-NhAf-HUN7_ymYycieDa-16" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;2D DWT(X)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-NhAf-HUN7_ymYycieDa-16" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;2D DWT(X)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="880" y="-635" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
