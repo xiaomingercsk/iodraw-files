@@ -1049,6 +1049,9 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-122" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Matrix Multiplication&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4277.5" y="5157.48" width="515" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=60;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZEGhgqamkGThGOc8pNhb-5" target="ZEGhgqamkGThGOc8pNhb-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#C73500;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#fa6800;fontColor=#000000;horizontal=1;flipH=0;flipV=0;direction=south;size=120;" vertex="1" parent="1">
           <mxGeometry x="1630" y="457.43000000000006" width="250" height="140" as="geometry" />
         </mxCell>
