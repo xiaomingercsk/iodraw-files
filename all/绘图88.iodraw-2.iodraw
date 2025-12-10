@@ -1049,12 +1049,11 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-122" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Matrix Multiplication&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4277.5" y="5157.48" width="515" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=60;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZEGhgqamkGThGOc8pNhb-5" target="ZEGhgqamkGThGOc8pNhb-31">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=60;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ZEGhgqamkGThGOc8pNhb-5" target="ZEGhgqamkGThGOc8pNhb-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1940" y="537" />
-              <mxPoint x="1940" y="250" />
-              <mxPoint x="2055" y="250" />
+              <mxPoint x="1940" y="252" />
             </Array>
           </mxGeometry>
         </mxCell>
