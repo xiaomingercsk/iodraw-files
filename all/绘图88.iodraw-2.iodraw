@@ -1860,7 +1860,7 @@
         <mxCell id="ZEGhgqamkGThGOc8pNhb-336" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#fad9d5;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#fad9d5;horizontal=1;flipH=0;flipV=0;direction=south;size=120;" vertex="1" parent="1">
           <mxGeometry x="3907" y="509.99999999999994" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-337" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-337" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4022" y="500.06999999999994" as="sourcePoint" />
             <mxPoint x="4162" y="500.5" as="targetPoint" />
