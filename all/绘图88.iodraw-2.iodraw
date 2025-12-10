@@ -1587,17 +1587,6 @@
         <mxCell id="ZEGhgqamkGThGOc8pNhb-247" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#36393d;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;horizontal=1;flipH=0;flipV=0;direction=south;size=30;" vertex="1" parent="1">
           <mxGeometry x="3030" y="536.5" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-250" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2990" y="420" as="sourcePoint" />
-            <mxPoint x="3030" y="375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-251" value="&lt;font size=&quot;1&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;H/4&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEGhgqamkGThGOc8pNhb-250">
-          <mxGeometry x="0.1048" relative="1" as="geometry">
-            <mxPoint x="-2" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-252" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3000" y="336.25" as="sourcePoint" />
