@@ -1973,7 +1973,7 @@
           <mxGeometry x="1715" y="-620" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="-612.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="1730" y="-570" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
