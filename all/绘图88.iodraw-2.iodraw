@@ -1041,7 +1041,7 @@
           <mxGeometry x="4277.5" y="5157.48" width="515" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="455" width="210" height="95" as="geometry" />
+          <mxGeometry x="1815" y="430" width="205" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
