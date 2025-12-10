@@ -1864,7 +1864,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-339" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-339" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;put&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4190" y="721" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-340" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
