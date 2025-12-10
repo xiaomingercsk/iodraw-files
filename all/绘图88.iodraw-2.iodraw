@@ -1921,6 +1921,9 @@
         <mxCell id="-NhAf-HUN7_ymYycieDa-16" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;2D DWT(X)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="880" y="-635" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4AYTwzoId1DAbZxZKOPg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NhAf-HUN7_ymYycieDa-18" target="4AYTwzoId1DAbZxZKOPg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-NhAf-HUN7_ymYycieDa-18" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1165" y="-960" width="150" height="150" as="geometry" />
         </mxCell>
@@ -1980,6 +1983,9 @@
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-18" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1690" y="-617.5" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AYTwzoId1DAbZxZKOPg-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="-610" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
