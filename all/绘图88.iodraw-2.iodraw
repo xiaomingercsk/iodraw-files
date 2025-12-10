@@ -1729,7 +1729,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZEGhgqamkGThGOc8pNhb-292">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZEGhgqamkGThGOc8pNhb-292">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3470" y="510" as="targetPoint" />
           </mxGeometry>
