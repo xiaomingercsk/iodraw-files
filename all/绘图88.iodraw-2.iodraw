@@ -1897,8 +1897,8 @@
         <mxCell id="-NhAf-HUN7_ymYycieDa-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="620" y="-890" width="50" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="-NhAf-HUN7_ymYycieDa-13" value="W×H×C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="615" y="-850" width="60" height="30" as="geometry" />
+        <mxCell id="-NhAf-HUN7_ymYycieDa-13" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;W×H×C&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
