@@ -1049,7 +1049,7 @@
         <mxCell id="ZEGhgqamkGThGOc8pNhb-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1825" y="480" as="sourcePoint" />
-            <mxPoint x="1945" y="360" as="targetPoint" />
+            <mxPoint x="1950" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-25" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;H&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEGhgqamkGThGOc8pNhb-21">
@@ -1060,7 +1060,7 @@
         <mxCell id="ZEGhgqamkGThGOc8pNhb-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1960" y="338.57" as="sourcePoint" />
-            <mxPoint x="2140" y="339" as="targetPoint" />
+            <mxPoint x="2100" y="339" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2070" y="338.57" />
             </Array>
