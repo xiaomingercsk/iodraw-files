@@ -1989,7 +1989,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4AYTwzoId1DAbZxZKOPg-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="4AYTwzoId1DAbZxZKOPg-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1687.5" y="-480" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-22" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Att&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
