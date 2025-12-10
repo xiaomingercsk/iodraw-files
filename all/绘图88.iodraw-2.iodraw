@@ -1806,7 +1806,7 @@
         <mxCell id="ZEGhgqamkGThGOc8pNhb-318" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Y&#39;&#39;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3570" y="891" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-320" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#3A5431;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#6d8764;fontColor=#ffffff;horizontal=1;flipH=0;flipV=0;direction=south;size=120;" vertex="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-320" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#6D8764;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#6d8764;fontColor=#ffffff;horizontal=1;flipH=0;flipV=0;direction=south;size=120;" vertex="1" parent="1">
           <mxGeometry x="3550" y="860" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-321" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
