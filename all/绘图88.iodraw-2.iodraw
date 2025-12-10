@@ -1858,7 +1858,7 @@
             <mxPoint x="3905" y="914.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-336" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#B20000;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#e51400;fontColor=#ffffff;horizontal=1;flipH=0;flipV=0;direction=south;size=120;" vertex="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-336" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#6F0000;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fillColor=#a20025;fontColor=#ffffff;horizontal=1;flipH=0;flipV=0;direction=south;size=120;" vertex="1" parent="1">
           <mxGeometry x="3907" y="509.99999999999994" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-337" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
