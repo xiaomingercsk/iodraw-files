@@ -1385,32 +1385,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-128" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3030" y="358" as="sourcePoint" />
-            <mxPoint x="3080" y="358" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-130" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3030" y="430" as="sourcePoint" />
-            <mxPoint x="3080" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-131" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;w/4&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEGhgqamkGThGOc8pNhb-130">
-          <mxGeometry x="-0.0311" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-132" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3030" y="500" as="sourcePoint" />
             <mxPoint x="3080" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-133" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;w/4&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEGhgqamkGThGOc8pNhb-132">
-          <mxGeometry x="-0.0311" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-134" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
