@@ -1985,7 +1985,7 @@
           <mxGeometry x="1690" y="-617.5" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="-610" width="150" height="150" as="geometry" />
+          <mxGeometry x="1850" y="-660" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
