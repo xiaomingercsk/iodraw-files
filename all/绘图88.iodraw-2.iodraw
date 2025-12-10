@@ -1888,11 +1888,8 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-NhAf-HUN7_ymYycieDa-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-690" width="260" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="-NhAf-HUN7_ymYycieDa-7" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-840" width="260" height="150" as="geometry" />
+          <mxGeometry x="470" y="-830" width="260" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
