@@ -1647,7 +1647,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-265" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-265" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3000" y="415" as="sourcePoint" />
             <mxPoint x="3040" y="370" as="targetPoint" />
@@ -1658,7 +1658,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-267" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-267" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3045" y="440" as="sourcePoint" />
             <mxPoint x="3095" y="440" as="targetPoint" />
@@ -1669,7 +1669,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEGhgqamkGThGOc8pNhb-269" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEGhgqamkGThGOc8pNhb-269" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3000" y="490" as="sourcePoint" />
             <mxPoint x="3040" y="445" as="targetPoint" />
