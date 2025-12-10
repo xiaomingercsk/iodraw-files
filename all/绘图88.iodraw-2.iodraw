@@ -1748,16 +1748,32 @@
         <mxCell id="ZEGhgqamkGThGOc8pNhb-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZEGhgqamkGThGOc8pNhb-296">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2860" y="803" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="804" />
+              <mxPoint x="2956" y="804" />
+              <mxPoint x="2956" y="910" />
+              <mxPoint x="3050" y="910" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZEGhgqamkGThGOc8pNhb-296">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2860" y="906" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="907" />
+              <mxPoint x="3050" y="907" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZEGhgqamkGThGOc8pNhb-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZEGhgqamkGThGOc8pNhb-296">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2860" y="1020" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="1021" />
+              <mxPoint x="2956" y="1021" />
+              <mxPoint x="2956" y="910" />
+              <mxPoint x="3050" y="910" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
