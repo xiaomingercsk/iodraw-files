@@ -2029,7 +2029,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fad7ac;" vertex="1" parent="1">
           <mxGeometry x="840" y="6090" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fad7ac;" vertex="1" parent="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="870" y="6160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;strokeWidth=3;" vertex="1" parent="1">
