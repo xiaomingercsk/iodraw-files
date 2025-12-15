@@ -2533,11 +2533,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-258" target="IaNnQEe_bNqZZTvLWNCX-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-5" target="uVvitBEsTWhgo9obbWIP-255">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3310" y="1835" />
+              <mxPoint x="3310" y="2101" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
