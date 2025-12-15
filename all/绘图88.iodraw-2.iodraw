@@ -2276,16 +2276,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-87" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#33FF33;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="5780" width="200" height="120" as="geometry" />
+          <mxGeometry x="1837.5" y="5760" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-88" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#33FF33;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="5760" width="200" height="120" as="geometry" />
+          <mxGeometry x="1837.5" y="5740" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-89" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#33FF33;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="5740" width="200" height="120" as="geometry" />
+          <mxGeometry x="1837.5" y="5720" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-90" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#33FF33;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="5720" width="200" height="120" as="geometry" />
+        <mxCell id="uVvitBEsTWhgo9obbWIP-90" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#3399FF;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1837.5" y="5700" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
