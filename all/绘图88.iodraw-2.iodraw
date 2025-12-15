@@ -815,7 +815,7 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4430" y="1785.63" width="400" height="108.75" as="geometry" />
         </mxCell>
-        <mxCell id="IaNnQEe_bNqZZTvLWNCX-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Output&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-21" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 40px;&quot;&gt;Output&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4520" y="1669.38" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-22" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;X&#39;&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;H×W×C&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
