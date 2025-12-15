@@ -2349,7 +2349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-133" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;iDFT&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="5570" width="70" height="40" as="geometry" />
+          <mxGeometry x="2760" y="5570" width="390" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
