@@ -2359,7 +2359,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-180" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="240" y="6280" width="150" height="50" as="geometry" />
+          <mxGeometry x="970" y="7200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-181" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Frequency decompose and adjustment;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="7260" width="820" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
