@@ -2379,6 +2379,9 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-192" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 100px; background-color: initial;&quot;&gt;⊕&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="2550" y="7191.25" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-193" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Disjoint Fourier Indices&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2663.75" y="7200" width="420" height="67.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
