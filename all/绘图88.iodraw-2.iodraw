@@ -943,7 +943,7 @@
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-78" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Concatenation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2750" y="5154.99" width="380" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-79" target="IaNnQEe_bNqZZTvLWNCX-105">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-79" target="IaNnQEe_bNqZZTvLWNCX-105">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2810" y="5070" />
