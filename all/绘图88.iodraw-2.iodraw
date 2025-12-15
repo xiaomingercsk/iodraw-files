@@ -2239,14 +2239,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=200;entryDy=48.0157518160232;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-33" target="uVvitBEsTWhgo9obbWIP-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1790" y="5975" />
-              <mxPoint x="1790" y="6148" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="2260" y="5920" width="80" height="80" as="geometry" />
         </mxCell>
