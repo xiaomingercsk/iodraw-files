@@ -2212,6 +2212,11 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-62" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2610" y="5875" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2830" y="5956" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-63" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;W&#39;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2640" y="5930" width="70" height="50" as="geometry" />
         </mxCell>
@@ -2328,7 +2333,7 @@
           <mxGeometry x="2720" y="5875" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-121" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="5860" width="230" height="190" as="geometry" />
+          <mxGeometry x="2837.5" y="5847.5" width="230" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
