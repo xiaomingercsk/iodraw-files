@@ -2119,10 +2119,10 @@
             <mxPoint x="1940.0000000000005" y="6240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-30" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Local Channel Brash&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-30" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Verdana&quot;&gt;Local Channel Brash&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
           <mxGeometry x="1432.5" y="6370" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-31" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Verdana&quot;&gt;Gocal Channel Brash&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-31" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Gocal Channel Brash&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
           <mxGeometry x="2120" y="6370" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-33" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 100px; background-color: initial;&quot;&gt;⊕&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
