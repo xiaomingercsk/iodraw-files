@@ -2340,7 +2340,13 @@
           <mxGeometry x="3840" y="5870" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-154" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="3910" y="6110" width="200" height="120" as="geometry" />
+          <mxGeometry x="3830" y="6040" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-155" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3990" y="6350" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-156" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="6370" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
