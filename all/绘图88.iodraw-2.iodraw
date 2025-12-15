@@ -2129,7 +2129,7 @@
           <mxGeometry x="1670" y="5940" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-46" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="4220" y="6400" width="320" height="350" as="geometry" />
+          <mxGeometry x="4230" y="6370" width="320" height="350" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1460" y="5760" width="40" height="120" as="geometry" />
@@ -2321,6 +2321,9 @@
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-140" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="3660" y="5950" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-143" target="uVvitBEsTWhgo9obbWIP-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-143" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Conv2d&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3845" y="6500" width="190" height="90" as="geometry" />
