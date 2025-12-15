@@ -2368,16 +2368,16 @@
           <mxGeometry x="1950" y="7200" width="420" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-189" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="7193.75" width="80" height="80" as="geometry" />
+          <mxGeometry x="2410" y="6730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-190" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="7223.75" width="20" height="20" as="geometry" />
+          <mxGeometry x="2440" y="6760" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-191" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 100px; background-color: initial;&quot;&gt;⊕&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="3635" y="5920" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-192" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 100px; background-color: initial;&quot;&gt;⊕&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="7240" width="80" height="70" as="geometry" />
+          <mxGeometry x="2550" y="7191.25" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
