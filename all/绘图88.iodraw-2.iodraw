@@ -2430,7 +2430,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-208" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="7665" y="6462.5" width="40" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-209">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-209">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8000" y="6515" as="targetPoint" />
           </mxGeometry>
