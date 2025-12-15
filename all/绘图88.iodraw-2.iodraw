@@ -2302,8 +2302,13 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2190" y="5935" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2330" y="6130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-103" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=24;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="5965" width="20" height="20" as="geometry" />
+          <mxGeometry x="2220" y="6120" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
