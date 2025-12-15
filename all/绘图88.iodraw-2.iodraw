@@ -2522,6 +2522,9 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-251" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="3180" y="1787.5" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="uVvitBEsTWhgo9obbWIP-255" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="2220" width="580" height="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
