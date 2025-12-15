@@ -2306,7 +2306,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-106" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="2290" y="5950" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-111" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#3399FF;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-111" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2420" y="5920" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-112" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" vertex="1" parent="1">
@@ -2328,7 +2328,7 @@
           <mxGeometry x="2770" y="5900" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-121" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="3820" y="5710" width="300" height="325" as="geometry" />
+          <mxGeometry x="3460" y="5575" width="300" height="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
