@@ -2453,7 +2453,7 @@
           <mxGeometry x="8280" y="6495" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-216" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="7680" y="6730" width="40" height="150" as="geometry" />
+          <mxGeometry x="7680" y="6770" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-217" value="&lt;font face=&quot;Verdana&quot; style=&quot;&quot;&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;J&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;global&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="7715" y="6780" width="110" height="50" as="geometry" />
