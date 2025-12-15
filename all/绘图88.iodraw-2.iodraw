@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="aGUYM6wSGpwM97vJZPJk">
-    <mxGraphModel dx="1942" dy="5653" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="5651" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2430,7 +2430,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-208" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="7665" y="6462.5" width="40" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-209">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="uVvitBEsTWhgo9obbWIP-209">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7999.999999999998" y="6515" as="targetPoint" />
           </mxGeometry>
@@ -2520,7 +2520,7 @@
           <mxGeometry x="8040" y="6861.25" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-250" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;ReShape&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="7890" y="6510" as="geometry" />
+          <mxGeometry x="7910" y="6510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
