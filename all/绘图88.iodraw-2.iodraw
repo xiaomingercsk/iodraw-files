@@ -1033,7 +1033,7 @@
           <mxGeometry x="4290" y="5120" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-118" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;=&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3550" y="5144.98" width="100" height="60.01" as="geometry" />
+          <mxGeometry x="3547.5" y="5134.99" width="100" height="60.01" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-121" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;=&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4380" y="5144.98" width="100" height="60.01" as="geometry" />
@@ -2622,7 +2622,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-307" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Verdana&quot;&gt;BNS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="3800" y="5390" width="220" height="60" as="geometry" />
+          <mxGeometry x="3350" y="5135" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
