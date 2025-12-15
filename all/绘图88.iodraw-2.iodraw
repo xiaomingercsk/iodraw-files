@@ -2328,7 +2328,7 @@
           <mxGeometry x="2770" y="5900" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-121" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="3460" y="5575" width="300" height="325" as="geometry" />
+          <mxGeometry x="3530" y="5710" width="230" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
