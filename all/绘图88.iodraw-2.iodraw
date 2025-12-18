@@ -1900,7 +1900,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NhAf-HUN7_ymYycieDa-18" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1152.5" y="-867.5" width="150" height="110" as="geometry" />
+          <mxGeometry x="1140" y="-840" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-NhAf-HUN7_ymYycieDa-19" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1150" y="-740" width="150" height="110" as="geometry" />
@@ -1948,7 +1948,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1690" y="-602" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1718" y="-602" />
+              <mxPoint x="1720" y="-602" />
+              <mxPoint x="1720" y="-602" />
             </Array>
           </mxGeometry>
         </mxCell>
