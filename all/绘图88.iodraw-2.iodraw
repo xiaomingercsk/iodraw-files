@@ -16,7 +16,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-252" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=0;flipV=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3635" y="1405.63" width="280" height="288.75" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-239" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-239" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#6d8764;strokeColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="8010" y="6500" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="uVvitBEsTWhgo9obbWIP-155" target="uVvitBEsTWhgo9obbWIP-143" edge="1">
@@ -2429,7 +2429,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-234" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=east;flipV=0;flipH=1;rotation=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="6860" y="6633.75" width="190" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-236" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#f0a30a;strokeColor=default;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-236" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#f0a30a;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="8010" y="6480" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-237" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#fa6800;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
