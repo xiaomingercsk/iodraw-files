@@ -2257,7 +2257,7 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-151" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;DFT&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2850" y="6690" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-153" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;gradientColor=default;" parent="1" vertex="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-153" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#000000;gradientColor=default;" parent="1" vertex="1">
           <mxGeometry x="3840" y="5870" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=200;entryDy=71.98424818397682;entryPerimeter=0;strokeWidth=3;" parent="1" target="uVvitBEsTWhgo9obbWIP-154" edge="1">
