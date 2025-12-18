@@ -791,7 +791,7 @@
         <mxCell id="EJqVntau1fdV1W8ryvaF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaNnQEe_bNqZZTvLWNCX-1" target="IaNnQEe_bNqZZTvLWNCX-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IaNnQEe_bNqZZTvLWNCX-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="IaNnQEe_bNqZZTvLWNCX-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2615" y="1778.75" width="400" height="108.75" as="geometry" />
         </mxCell>
         <mxCell id="IaNnQEe_bNqZZTvLWNCX-3" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 40px;&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
