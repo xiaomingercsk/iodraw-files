@@ -1950,7 +1950,7 @@
           <mxGeometry x="1692.5" y="-620" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="-480" width="150" height="150" as="geometry" />
+          <mxGeometry x="1630" y="-480" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-22" value="&lt;font size=&quot;1&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Att&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1687.5" y="-510" width="30" height="30" as="geometry" />
