@@ -1935,7 +1935,7 @@
           <mxGeometry x="1360" y="-627.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-12" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="-665" width="150" height="110" as="geometry" />
+          <mxGeometry x="1490" y="-665" width="150" height="115" as="geometry" />
         </mxCell>
         <mxCell id="4AYTwzoId1DAbZxZKOPg-13" value="&lt;font face=&quot;Verdana&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;W&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;high&lt;/font&gt;&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1434" y="-625" width="50" height="30" as="geometry" />
@@ -2647,9 +2647,6 @@
               <mxPoint x="1796" y="-425" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EJqVntau1fdV1W8ryvaF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4AYTwzoId1DAbZxZKOPg-12" target="4AYTwzoId1DAbZxZKOPg-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
