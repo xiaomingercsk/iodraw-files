@@ -22,13 +22,13 @@
         <mxCell id="uVvitBEsTWhgo9obbWIP-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="uVvitBEsTWhgo9obbWIP-155" target="uVvitBEsTWhgo9obbWIP-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-155" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#660033;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-155" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3840" y="5930" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-156" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3840" y="5910" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uVvitBEsTWhgo9obbWIP-154" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#b85450;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="uVvitBEsTWhgo9obbWIP-154" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#FF3333;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="3840" y="5890" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uVvitBEsTWhgo9obbWIP-81" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;flipH=1;fillColor=#33FFFF;strokeColor=#000000;" parent="1" vertex="1">
