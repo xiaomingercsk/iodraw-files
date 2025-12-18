@@ -1855,7 +1855,7 @@
         <mxCell id="-NhAf-HUN7_ymYycieDa-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="700" y="-735" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-NhAf-HUN7_ymYycieDa-13" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;W×H×C&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NhAf-HUN7_ymYycieDa-13" value="&lt;font size=&quot;1&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;W×H×C&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="695" y="-710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-NhAf-HUN7_ymYycieDa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" target="-NhAf-HUN7_ymYycieDa-16" edge="1">
