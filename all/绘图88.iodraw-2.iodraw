@@ -3439,17 +3439,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UGPrynJXEUJkeUVBGMK8-279" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8780" y="1940" as="sourcePoint" />
-            <mxPoint x="8820" y="1895" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UGPrynJXEUJkeUVBGMK8-280" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;H/4&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="UGPrynJXEUJkeUVBGMK8-279">
-          <mxGeometry x="0.1048" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UGPrynJXEUJkeUVBGMK8-281" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8830" y="2095" as="sourcePoint" />
