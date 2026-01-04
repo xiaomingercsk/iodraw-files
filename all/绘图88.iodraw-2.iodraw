@@ -2821,24 +2821,6 @@
         <mxCell id="UGPrynJXEUJkeUVBGMK8-107" value="&lt;font face=&quot;Verdana&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Conv(W,X&#39;&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;HH&lt;/font&gt;&lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;)&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="8980" y="2295" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UGPrynJXEUJkeUVBGMK8-109" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8940" y="2159.17" as="sourcePoint" />
-            <mxPoint x="8980" y="2159.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UGPrynJXEUJkeUVBGMK8-110" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8940" y="2239.58" as="sourcePoint" />
-            <mxPoint x="8980" y="2239.58" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UGPrynJXEUJkeUVBGMK8-111" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8940" y="2315" as="sourcePoint" />
-            <mxPoint x="8980" y="2315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UGPrynJXEUJkeUVBGMK8-112" value="&lt;font face=&quot;Verdana&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Y&#39;&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;LL&lt;/font&gt;&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9120" y="2066.5" width="30" height="30" as="geometry" />
         </mxCell>
