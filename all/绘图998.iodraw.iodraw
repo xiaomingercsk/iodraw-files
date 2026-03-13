@@ -229,7 +229,7 @@
         <mxCell id="vGUQlOKlamStQ7YTdJwm-23" value="SPPF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="680" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vGUQlOKlamStQ7YTdJwm-24" value="SPPF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vGUQlOKlamStQ7YTdJwm-24" value="SCPP池化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="800" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
