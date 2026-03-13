@@ -10,9 +10,6 @@
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-3" value="C3K2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IJ5sSxUsn4kdR-97eNq2-4" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-5" value="C3K2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="80" height="30" as="geometry" />
         </mxCell>
@@ -21,6 +18,9 @@
         </mxCell>
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-7" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ5sSxUsn4kdR-97eNq2-8" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
