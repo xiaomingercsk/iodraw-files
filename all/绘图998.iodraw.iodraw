@@ -187,6 +187,9 @@
         <mxCell id="vGUQlOKlamStQ7YTdJwm-4" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vGUQlOKlamStQ7YTdJwm-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
