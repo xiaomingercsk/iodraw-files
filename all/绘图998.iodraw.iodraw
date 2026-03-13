@@ -218,13 +218,16 @@
           <mxGeometry x="680" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vGUQlOKlamStQ7YTdJwm-15" value="MAC瓶颈块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="785" y="350" width="90" height="30" as="geometry" />
+          <mxGeometry x="785" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vGUQlOKlamStQ7YTdJwm-16" value="MHCB块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="785" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vGUQlOKlamStQ7YTdJwm-17" value="多核感知模块MKP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="785" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGUQlOKlamStQ7YTdJwm-22" value="MHCB块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="740" y="600" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
