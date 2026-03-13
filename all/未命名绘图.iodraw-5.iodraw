@@ -91,7 +91,10 @@
           <mxGeometry x="510" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-33" value="concat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ5sSxUsn4kdR-97eNq2-34" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
