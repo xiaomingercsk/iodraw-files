@@ -176,13 +176,13 @@
           <mxGeometry x="470" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-59" value="Head" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-61" value="Head" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJ5sSxUsn4kdR-97eNq2-62" value="Head" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vGUQlOKlamStQ7YTdJwm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vGUQlOKlamStQ7YTdJwm-6" target="vGUQlOKlamStQ7YTdJwm-7">
           <mxGeometry relative="1" as="geometry" />
@@ -234,6 +234,9 @@
         </mxCell>
         <mxCell id="vGUQlOKlamStQ7YTdJwm-24" value="SCPP池化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="800" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGUQlOKlamStQ7YTdJwm-26" value="C2BSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
