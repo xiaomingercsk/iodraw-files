@@ -24,7 +24,7 @@
         <mxCell id="TJoZSoksBY_grxNcqk_i-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJoZSoksBY_grxNcqk_i-7" target="TJoZSoksBY_grxNcqk_i-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJoZSoksBY_grxNcqk_i-7" value="WBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TJoZSoksBY_grxNcqk_i-7" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TJoZSoksBY_grxNcqk_i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJoZSoksBY_grxNcqk_i-9" target="TJoZSoksBY_grxNcqk_i-12">
