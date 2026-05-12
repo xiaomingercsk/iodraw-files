@@ -774,10 +774,13 @@
           <mxGeometry x="120" y="1220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-331" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1595" width="80" height="30" as="geometry" />
+          <mxGeometry x="310" y="1595" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-332" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;BN&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1680" width="80" height="30" as="geometry" />
+          <mxGeometry x="310" y="1660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-333" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;B-SiLU&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1770" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
