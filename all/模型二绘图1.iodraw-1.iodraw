@@ -656,14 +656,17 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-161" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;HalfConv&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2280" y="1520" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-164" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="2230" width="210" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-163" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2250" y="2210" width="210" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-165" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="2100" width="210" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-162" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2250" y="2190" width="210" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-164" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="2110" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
