@@ -860,7 +860,10 @@
           <mxGeometry x="1360" y="1369.75" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-404" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 48px;&quot;&gt;⊕&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1470" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="1140" y="1467.75" width="30" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-405" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 48px;&quot;&gt;⊕&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1470.75" width="50" height="48.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
