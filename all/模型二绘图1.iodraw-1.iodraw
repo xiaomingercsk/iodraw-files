@@ -468,8 +468,14 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-89" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;HBB(5×5）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1260" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-91" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Shuffle&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1430" width="80" height="30" as="geometry" />
+        <mxCell id="REO3bPLixdRbhMjkOCvb-91" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Shuffle&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-92" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Shuffle&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-93" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Shuffle&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1325" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
