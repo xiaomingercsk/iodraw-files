@@ -859,7 +859,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-412" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 35px;&quot;&gt;⊕&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="1468" width="50" height="60" as="geometry" />
+          <mxGeometry x="1167.5" y="1469" width="25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
