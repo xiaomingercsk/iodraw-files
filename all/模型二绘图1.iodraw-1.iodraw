@@ -536,9 +536,9 @@
           <mxGeometry x="3130" y="370" width="380" height="305" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-123" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3140" y="440" width="360" height="30" as="geometry" />
+          <mxGeometry x="3140" y="510" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-118" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;HBB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d6b656;" vertex="1" parent="REO3bPLixdRbhMjkOCvb-123">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-118" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;HBB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d6b656;" vertex="1" parent="REO3bPLixdRbhMjkOCvb-123">
           <mxGeometry width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-119" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;HalfConv&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#9673a6;" vertex="1" parent="REO3bPLixdRbhMjkOCvb-123">
@@ -583,7 +583,7 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-168" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="3719" y="530.5" width="71" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-169" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;Identity&lt;/font&gt;" style="text;strokeColor=#3A5431;fillColor=#6d8764;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-169" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 17px;&quot;&gt;Identity&lt;/font&gt;" style="text;strokeColor=#3A5431;fillColor=#6d8764;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="3780" y="481.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-170" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
@@ -619,7 +619,7 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-192" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3170" y="865.6300000000001" width="100" height="68.75" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-193" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-193" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3160" y="818.75" width="120" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-201" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;Output&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -639,13 +639,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-230" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;CBS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-230" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;CBS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3310" y="790" width="70" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-232" target="REO3bPLixdRbhMjkOCvb-236">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-232" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;X Avg Pool&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-232" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;X Avg Pool&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3429.5" y="750" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-234" target="REO3bPLixdRbhMjkOCvb-236">
@@ -680,7 +680,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-245" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;CBS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-245" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;CBS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3310" y="968.76" width="70" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-246" target="REO3bPLixdRbhMjkOCvb-248">
@@ -691,7 +691,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-246" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;X Max Pool&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-246" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;X Max Pool&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3440" y="920" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-247" target="REO3bPLixdRbhMjkOCvb-248">
@@ -724,7 +724,7 @@
           <mxGeometry x="3885" y="852.5" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-273" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#7EA6E0;strokeWidth=3;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="690" width="1020" height="440" as="geometry" />
+          <mxGeometry x="3130" y="1160" width="1020" height="440" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-284" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4010" y="865.6300000000001" width="100" height="68.75" as="geometry" />
