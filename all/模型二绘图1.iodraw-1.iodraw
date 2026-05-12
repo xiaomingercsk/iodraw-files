@@ -696,7 +696,7 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-172" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2440" y="2160" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-170" target="REO3bPLixdRbhMjkOCvb-158">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-170" target="REO3bPLixdRbhMjkOCvb-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
