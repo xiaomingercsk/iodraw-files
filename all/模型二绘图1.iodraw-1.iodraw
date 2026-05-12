@@ -810,9 +810,6 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-350" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Y Max Pool&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1525" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-352" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;CA&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1410.0100000000002" width="170" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-354" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Re-weight&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1410.0100000000002" width="170" height="60" as="geometry" />
         </mxCell>
@@ -834,13 +831,13 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-365" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Proj&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="680" y="1625" width="80" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-368" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-368" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="830" y="1410" width="80" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-369" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Q&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-369" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Q&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="830" y="1525" width="80" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-370" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;K&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-370" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;K&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="830" y="1627.5" width="80" height="32.5" as="geometry" />
         </mxCell>
       </root>
