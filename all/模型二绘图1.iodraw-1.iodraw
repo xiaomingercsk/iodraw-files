@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MViatvWcFNuzAqqA3vPs">
-    <mxGraphModel dx="1172" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,6 +534,18 @@
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF00FF;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1640" y="1020" width="410" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-118" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;CBB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-119" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="1340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-120" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;BN&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="1340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-121" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;B-SiLU&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="1340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
