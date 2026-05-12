@@ -433,7 +433,7 @@
             <mxPoint x="1450" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-75" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;CBB(1×1)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-75" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;CBB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-77" target="REO3bPLixdRbhMjkOCvb-81">
