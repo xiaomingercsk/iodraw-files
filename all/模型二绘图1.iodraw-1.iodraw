@@ -559,7 +559,7 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-125" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#2D7600;strokeWidth=3;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1020" width="670" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcccc;strokeColor=#B85450;strokeWidth=2;targetPerimeterSpacing=7;sourcePerimeterSpacing=-18;" edge="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcccc;strokeColor=#B85450;strokeWidth=2;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2300" y="1455.4133333333334" as="targetPoint" />
             <mxPoint x="2220" y="1455.58" as="sourcePoint" />
