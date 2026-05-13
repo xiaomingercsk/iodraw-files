@@ -1506,6 +1506,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-733" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC6600;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="1150.25" width="430" height="670.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
