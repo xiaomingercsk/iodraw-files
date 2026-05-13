@@ -1219,8 +1219,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-595" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 35px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="1455.75" width="40" height="39.5" as="geometry" />
+        <mxCell id="REO3bPLixdRbhMjkOCvb-595" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 30px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="1450" width="30" height="25.25" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-603" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-599" target="REO3bPLixdRbhMjkOCvb-601">
           <mxGeometry relative="1" as="geometry" />
@@ -1242,7 +1242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-601" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 35px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=bottom;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-601" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 30px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=bottom;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2380" y="1546.75" width="30" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-615" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Input&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
