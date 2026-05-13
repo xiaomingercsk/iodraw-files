@@ -1414,8 +1414,8 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-694" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2650" y="1320.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-698" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;pointerEvents=0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2229" y="1620.5" width="45" height="40" as="geometry" />
+        <mxCell id="REO3bPLixdRbhMjkOCvb-698" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;pointerEvents=0;align=center;fontFamily=Verdana;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2267.5" y="1465" width="32.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-699" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;pointerEvents=0;align=center;fontFamily=Verdana;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2390.5" y="1410" width="29" height="30" as="geometry" />
