@@ -1166,10 +1166,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-571" value="&lt;font color=&quot;#ffffff&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1890" width="60" height="30" as="geometry" />
+          <mxGeometry x="1030" y="1890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-575" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="2090" width="80" height="30" as="geometry" />
+          <mxGeometry x="910" y="2100" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
