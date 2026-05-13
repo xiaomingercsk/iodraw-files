@@ -1234,7 +1234,12 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-599" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ACRS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="950" y="2200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-601" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 35px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="REO3bPLixdRbhMjkOCvb-613" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-601">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1154.666666666667" y="2290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-601" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 35px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=bottom;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1140" y="2196.25" width="30" height="37.5" as="geometry" />
         </mxCell>
       </root>
