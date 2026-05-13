@@ -1239,6 +1239,15 @@
             <mxPoint x="1154.666666666667" y="2290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-614" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-601">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030.0000000000002" y="1930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="2215" />
+              <mxPoint x="1200" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-601" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 35px;&quot;&gt;⊗&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;align=center;verticalAlign=bottom;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1140" y="2196.25" width="30" height="37.5" as="geometry" />
         </mxCell>
