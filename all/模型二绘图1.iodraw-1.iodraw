@@ -969,8 +969,13 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-457" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="2290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-468" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-459">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.25" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-459" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CBB&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2370" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="2350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-461" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="2340" width="80" height="30" as="geometry" />
