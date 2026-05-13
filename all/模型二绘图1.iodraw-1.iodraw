@@ -1078,8 +1078,8 @@
             <mxPoint x="675" y="2814.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REO3bPLixdRbhMjkOCvb-518" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;CBB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="450" y="2220" width="80" height="35" as="geometry" />
+        <mxCell id="REO3bPLixdRbhMjkOCvb-518" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;CBB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2225" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-519" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="2225" width="80" height="30" as="geometry" />
