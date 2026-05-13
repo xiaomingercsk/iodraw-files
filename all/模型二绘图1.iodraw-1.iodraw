@@ -1477,6 +1477,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-723" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="REO3bPLixdRbhMjkOCvb-719" target="REO3bPLixdRbhMjkOCvb-722">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-719" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;pointerEvents=0;align=center;fontFamily=Verdana;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2701" y="1410" width="29" height="30" as="geometry" />
         </mxCell>
@@ -1487,7 +1490,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-722" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CB&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2685.5" y="1472.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2685.5" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-726" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Output&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="1570" width="80" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
