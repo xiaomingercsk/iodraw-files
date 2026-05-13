@@ -1415,7 +1415,7 @@
           <mxGeometry x="2650" y="1320.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-698" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;pointerEvents=0;align=center;fontFamily=Verdana;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2267.5" y="1465" width="32.5" height="35" as="geometry" />
+          <mxGeometry x="2290.5" y="1471.5" width="29" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-699" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;pointerEvents=0;align=center;fontFamily=Verdana;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2390.5" y="1410" width="29" height="30" as="geometry" />
