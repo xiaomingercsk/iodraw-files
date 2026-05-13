@@ -1261,13 +1261,13 @@
           <mxGeometry x="890" y="2310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-618" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SGConv(1×3)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="990" y="2310" width="160" height="30" as="geometry" />
+          <mxGeometry x="990" y="2310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-619" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;BN&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="2300" width="60" height="30" as="geometry" />
+          <mxGeometry x="1110" y="2310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-620" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;SiLU&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="2300" width="60" height="30" as="geometry" />
+          <mxGeometry x="1170" y="2310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-621" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;=&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="2310" width="40" height="30" as="geometry" />
@@ -1301,6 +1301,21 @@
         </mxCell>
         <mxCell id="REO3bPLixdRbhMjkOCvb-631" value="&lt;font face=&quot;Verdana&quot; color=&quot;#97d077&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;DSC&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="1870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-632" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SBS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="980" y="2400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-633" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SGConv(1×3)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="2400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-634" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;BN&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-635" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;SiLU&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="2400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-636" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;=&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2400" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
