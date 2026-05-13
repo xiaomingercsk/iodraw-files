@@ -1147,6 +1147,9 @@
         <mxCell id="REO3bPLixdRbhMjkOCvb-558" value="&lt;font color=&quot;#97d077&quot; face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;EMSF&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="1870" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="REO3bPLixdRbhMjkOCvb-560" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#97d077;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="2030" width="420" height="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
