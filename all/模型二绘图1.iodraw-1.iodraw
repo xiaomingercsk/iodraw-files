@@ -1966,7 +1966,7 @@
           <mxGeometry x="820" y="2943" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PdpCdlNSjnYiIHaOZJ0F-240" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="2700" width="64" height="70" as="geometry" />
+          <mxGeometry x="1380" y="2720" width="47" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
