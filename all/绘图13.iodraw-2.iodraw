@@ -765,10 +765,10 @@
           <mxGeometry x="110" y="2455" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-30" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;FDConv&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="220" y="2460" width="67" height="30" as="geometry" />
+          <mxGeometry x="190" y="2460" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-31" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;BN&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="300" y="2460" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="2460" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5X3LKX0otbz1O_KTlOmh-32" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;B-SiLU&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="2460" width="80" height="30" as="geometry" />
