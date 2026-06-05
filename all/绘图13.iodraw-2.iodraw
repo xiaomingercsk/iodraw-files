@@ -1231,10 +1231,10 @@
         <mxCell id="ZyBY_RPsSNR2hkuHlTLV-5" value="&lt;font size=&quot;1&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;IDID&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1890" y="1580" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-11" value="&lt;b&gt;Summarization and Filtering&lt;/b&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontSize=10;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-11" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;Summarization and Filtering&lt;/font&gt;&lt;/b&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontSize=10;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2015" y="1490" width="31.25" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-16" value="&lt;b&gt;Summarization and Filtering&lt;/b&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontSize=10;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-16" value="&lt;b&gt;Synthetic Weather Algorithms&lt;/b&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontSize=10;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2410.005" y="1440.005" width="31.25" height="90" as="geometry" />
         </mxCell>
       </root>
