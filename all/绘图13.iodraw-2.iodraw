@@ -1219,8 +1219,11 @@
         <mxCell id="ZyBY_RPsSNR2hkuHlTLV-5" value="&lt;font size=&quot;1&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;IDID&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1890" y="1580" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-9" value="Summarization and Filtering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="1580" width="80" height="60" as="geometry" />
+        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-9" value="&lt;font face=&quot;Verdana&quot;&gt;Summarization and Filtering&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="2385" y="1535" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-10" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
