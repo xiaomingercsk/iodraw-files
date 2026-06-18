@@ -1225,7 +1225,7 @@
         <mxCell id="ZyBY_RPsSNR2hkuHlTLV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZyBY_RPsSNR2hkuHlTLV-28" target="ZyBY_RPsSNR2hkuHlTLV-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-28" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;Summarization and Filtering&lt;/font&gt;&lt;/b&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="ZyBY_RPsSNR2hkuHlTLV-28" value="Synthetic weather algorithm processing" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2044.385" y="1540.005" width="31.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZyBY_RPsSNR2hkuHlTLV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZyBY_RPsSNR2hkuHlTLV-31" target="ZyBY_RPsSNR2hkuHlTLV-38" edge="1">
